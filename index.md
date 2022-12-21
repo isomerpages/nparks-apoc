@@ -4,7 +4,7 @@ title: 14th Asia Pacific Orchid Conference 2023
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Staging Site
+notification: ""
 sections:
   - hero:
       title: 14th Asia Pacific Orchid Conference
@@ -29,4 +29,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
