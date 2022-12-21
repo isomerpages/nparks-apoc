@@ -1,7 +1,8 @@
 ---
 layout: homepage
 title: 14th Asia Pacific Orchid Conference 2023
-description: An Isomer site of the Singapore Government
+description: The 14th Asia Pacific Orchid Conference 2023 will be held from 16 –
+  20 Aug 2023 at Singapore Expo (Hall 2)
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -29,3 +30,4 @@ sections:
       button: Button text
       url: /faq/
 ---
+
