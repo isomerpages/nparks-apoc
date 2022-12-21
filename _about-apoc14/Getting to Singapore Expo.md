@@ -3,7 +3,7 @@ title: Getting to Singapore Expo
 permalink: /about-apoc14/gettinghere/
 description: ""
 ---
-Addresss: 
+Address: <br>
 Singapore EXPO  
 1 Expo Drive, Singapore 486150
 
