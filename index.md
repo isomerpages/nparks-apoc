@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: 14th Asia Pacific Orchid Conference 2023
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: Staging Site
@@ -29,3 +29,4 @@ sections:
       button: Button text
       url: /faq/
 ---
+
