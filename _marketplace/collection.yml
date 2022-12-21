@@ -1,0 +1,4 @@
+collections:
+  marketplace:
+    output: true
+    order: []
