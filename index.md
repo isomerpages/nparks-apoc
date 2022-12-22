@@ -29,4 +29,11 @@ sections:
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
+  - infopic:
+      title: About the show
+      description: Organised in partnership with the Orchid Society of South East
+        Asia, the show will feature the region’s best orchid plants and
+        award-winning orchid varieties.
+      image: /images/organisers.jpg
+      alt: Image alt text
 ---
