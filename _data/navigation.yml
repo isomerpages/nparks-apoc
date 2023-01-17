@@ -4,7 +4,7 @@ links:
     url: /example-page/conference
   - title: Orchid Show & Competition
     collection: example-folder
-  - title: Contact Us
-    url: /contact-us/
   - title: MarketPlace
     url: /MarketPlace
+  - title: Contact Us
+    url: /contact-us/
