@@ -2,6 +2,6 @@ collections:
   conference:
     output: true
     order:
-      - Speaker List.md
-      - Conference Programme.md
       - About the conference.md
+      - Conference Programme.md
+      - Speaker List.md
