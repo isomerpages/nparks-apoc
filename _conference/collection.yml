@@ -2,6 +2,7 @@ collections:
   conference:
     output: true
     order:
+      - Conference Pricing.md
       - About the conference.md
       - Conference Programme.md
       - Speaker List.md
