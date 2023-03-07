@@ -1,4 +1,5 @@
 collections:
   conference:
     output: true
-    order: []
+    order:
+      - About the conference.md
