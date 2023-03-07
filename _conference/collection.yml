@@ -1,0 +1,4 @@
+collections:
+  conference:
+    output: true
+    order: []
