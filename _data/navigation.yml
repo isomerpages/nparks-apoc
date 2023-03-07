@@ -1,7 +1,7 @@
 logo: /images/logo.jpg
 links:
   - title: Conference
-    url: /example-page/conference
+    collection: conference
   - title: Orchid Show & Competition
     collection: example-folder
   - title: MarketPlace
