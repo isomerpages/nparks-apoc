@@ -2,4 +2,5 @@ collections:
   conference:
     output: true
     order:
+      - Conference Programme.md
       - About the conference.md
