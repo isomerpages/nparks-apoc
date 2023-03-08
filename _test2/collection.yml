@@ -2,4 +2,5 @@ collections:
   test2:
     output: true
     order:
+      - Page 2.md
       - Ticket Pricing.md
