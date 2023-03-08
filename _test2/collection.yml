@@ -1,4 +1,5 @@
 collections:
   test2:
     output: true
-    order: []
+    order:
+      - Ticket Pricing.md
