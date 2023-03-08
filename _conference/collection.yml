@@ -2,7 +2,7 @@ collections:
   conference:
     output: true
     order:
+      - Register Now.md
       - About the Conference.md
       - Conference Programme.md
       - Speaker List.md
-      - Register Now.md
