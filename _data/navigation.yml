@@ -8,3 +8,5 @@ links:
     url: /MarketPlace
   - title: Contact Us
     url: /contact-us/
+  - title: About Us
+    collection: example-folder
