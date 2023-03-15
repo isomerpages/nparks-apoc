@@ -2,6 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - About Singapore.md
       - Getting Here.md
       - The Venue.md
-      - About Singapore.md
