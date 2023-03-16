@@ -1,5 +1,5 @@
 collections:
-  about-us:
+  visit:
     output: true
     order:
       - Singapore.md
