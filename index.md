@@ -23,6 +23,8 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
+  - resources:
+      title: TICKET PURCHASE
   - infobar:
       title: Infobar title
       subtitle: Subtitle
