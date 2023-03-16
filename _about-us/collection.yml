@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Singapore.md
-      - The Venue.md
+      - Event Venue.md
       - Getting Here.md
