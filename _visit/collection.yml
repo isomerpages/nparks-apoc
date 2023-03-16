@@ -2,6 +2,6 @@ collections:
   visit:
     output: true
     order:
-      - Singapore.md
+      - About Singapore.md
       - Event Venue.md
       - Getting Here.md
