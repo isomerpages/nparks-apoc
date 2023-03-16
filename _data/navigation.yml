@@ -1,5 +1,7 @@
 logo: /images/APOCLowRes1.png
 links:
+  - title: About Us
+    collection: about-us
   - title: Conference
     collection: conference
   - title: Orchid Show & Competition
@@ -8,5 +10,3 @@ links:
     url: /MarketPlace
   - title: Contact Us
     url: /contact-us/
-  - title: About Us
-    collection: about-us
