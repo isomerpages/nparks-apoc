@@ -8,6 +8,10 @@ description: ""
 ![hero](/images/hero-banner.png)
 
 [![Singapore](/images/STB/1-%20Intro.png)](https://www.visitsingapore.com/en/)
-[![Singapore](/images/STB/1-%20Intro.png)](https://www.visitsingapore.com/en/)
-
-[Singapore](https://www.visitsingapore.com/en/)
+[![Dining](/images/STB/2-Dining.png)(https://www.visitsingapore.com/dining-drinks-singapore/)
+[![Shopping](/images/STB/3-Shopping.png)](https://www.visitsingapore.com/singapore-shopping/)
+[![Itineraries](/images/STB/4%20-%20Itineraries.png)](https://www.visitsingapore.com/singapore itineraries/)
+[![Tour](/images/STB/5%20-%20Passion%20tours.png)](https://www.visitsingapore.
+com/singapore-tours/)
+[![Event](/images/STB/6-Events.png)](https://www.visitsingapore.com/singapore-shopping/)
+[![BeforeYouGo](/images/STB/7-%20VS%20app.png)](https://www.visitsingapore.com/singapore-shopping/)
