@@ -1,5 +1,4 @@
 collections:
   about-apoc14:
     output: true
-    order:
-      - Getting to Singapore Expo.md
+    order: []
