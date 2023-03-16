@@ -5,7 +5,7 @@ description: ""
 ---
 [![Singapore](/images/STB/1-%20Intro.png)](https://www.visitsingapore.com/en/)
 
-[![Dining](/images/STB/2-Dining.png)(https://www.visitsingapore.com/dining-drinks-singapore/)
+[![Dining](/images/STB/2-Dining.png)](https://www.visitsingapore.com/dining-drinks-singapore/)
 
 [![Shopping](/images/STB/3-Shopping.png)](https://www.visitsingapore.com/singapore-shopping/)
 
@@ -15,4 +15,4 @@ description: ""
 
 [![Event](/images/STB/6-Events.png)](https://www.visitsingapore.com/festivals-events-singapore/)
 
-[![App](/images/STB/7-%20VS%20app.png)](https://www.visitsingapore.com/travel guide-tips/visit singapore travel-guide app/)
+[![App](/images/STB/7-%20VS%20app.png)](https://www.visitsingapore.com/travel-guide-tips/visit-singapore-travel-guide-app/)
