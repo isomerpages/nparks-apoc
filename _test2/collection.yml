@@ -1,6 +1,0 @@
-collections:
-  test2:
-    output: true
-    order:
-      - Ticket Pricing.md
-      - Page 2.md
