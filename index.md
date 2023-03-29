@@ -31,4 +31,3 @@ sections:
       image: /images/organisers.jpg
       alt: Image alt text
 ---
-
