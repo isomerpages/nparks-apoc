@@ -4,7 +4,7 @@ links:
     collection: visit
   - title: Conference
     collection: conference
-  - title: Orchid Show & Competition
-    collection: example-folder
+  - title: Orchid Show And Competitions
+    collection: orchid-show-and-competitions
   - title: Contact Us
     url: /contact-us/
