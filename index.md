@@ -17,6 +17,7 @@ sections:
         - title: Conference ticket
           description: Register Now
           url: https://gmail.com
+      background: /images/orchid1.jpg
   - infobar:
       title: Infobar title
       subtitle: Subtitle
