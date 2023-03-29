@@ -18,12 +18,6 @@ sections:
           description: Register Now
           url: https://gmail.com
       background: /images/orchid1.jpg
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
   - infopic:
       title: About the show
       description: Organised in partnership with the Orchid Society of South East
@@ -31,4 +25,10 @@ sections:
         award-winning orchid varieties.
       image: /images/organisers.jpg
       alt: Image alt text
+  - infobar:
+      title: Infobar title
+      subtitle: Subtitle
+      description: About a sentence worth of description here
+      button: Button text
+      url: /faq/
 ---
