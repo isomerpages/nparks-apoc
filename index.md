@@ -16,7 +16,7 @@ sections:
           url: /orchid-show-and-competitions/tickets/
         - title: Conference ticket
           description: Register Now
-          url: https://gmail.com
+          url: /conference/registration/
       background: /images/orchid1.jpg
   - infopic:
       title: About the show
