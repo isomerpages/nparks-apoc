@@ -2,5 +2,6 @@ collections:
   orchid-show-and-competitions:
     output: true
     order:
+      - Orchid Competition.md
       - Tickets.md
       - MarketPlace.md
