@@ -1,5 +1,5 @@
 collections:
-  orchid-show-and-competitions:
+  orchid-show:
     output: true
     order:
       - Floral exhibits.md
