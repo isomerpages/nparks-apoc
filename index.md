@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: Orchid Show Ticket
           description: Purchase Now
-          url: https://google.com
+          url: /orchid-show-and-competitions/tickets/
         - title: Conference ticket
           description: Register Now
           url: https://gmail.com
