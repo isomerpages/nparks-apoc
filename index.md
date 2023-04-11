@@ -8,7 +8,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: 14th Asia Pacific Orchid Conference
+      title: 14th Asia Pacific Orchid Conference 2023
       subtitle: Singapore EXPO <br> 16 – 20 Aug 2023
       key_highlights:
         - title: Orchid Show Ticket
