@@ -5,7 +5,7 @@ permalink: /contact-us/
 agency_name: Us
 locations:
   - address:
-      - Singapore Expo Hall 2
+      - Singapore EXPO Hall 2
       - "1 Expo Drive "
       - Singapore 486150
     operating_hours:
