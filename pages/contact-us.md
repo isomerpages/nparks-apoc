@@ -15,12 +15,12 @@ locations:
     maps_link: ""
     title: Show Venue
   - address:
-      - 1 Cluny Road, Botany Centre
-      - Singapore Botanic Gardens
-      - Singapore 259569
+      - Max Atria
+      - 1 Expo Drive
+      - Singapore 486150
     operating_hours: []
     maps_link: ""
-    title: Office
+    title: Conference Venue
 contacts:
   - content:
       - phone: +65 6471 7141
