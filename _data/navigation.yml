@@ -1,15 +1,10 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/APOCLowRes1.png
 links:
+  - title: Visit
+    collection: visit
+  - title: Lecture Programme
+    collection: lecture-programme
+  - title: Orchid Show
+    collection: orchid-show
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder

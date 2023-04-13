@@ -1,0 +1,5 @@
+collections:
+  lecture-programme:
+    output: true
+    order:
+      - Registration.md
