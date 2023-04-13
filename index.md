@@ -19,10 +19,9 @@ sections:
           url: /conference/registration/
       background: /images/orchid1.jpg
   - infopic:
-      title: About the show
-      description: "Organised in partnership with the Orchid Society of South East
-        Asia, the show will feature the region’s best orchid plants and
-        award-winning orchid varieties. "
+      title: About 14th APOC
+      description: APOC will feature the region’s best orchid plants and award-winning
+        orchid varieties with a five-day Show and a four-day Lecture programme.
       image: /images/organisers.jpg
       alt: Image alt text
 ---
