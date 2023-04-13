@@ -31,4 +31,7 @@ Situated at the crossroads of 3 main expressways – East Coast Parkway (ECP), P
 ### By Taxi
 -------
 
-There are numerous taxis available in Singapore that oﬀer reliable services. The taxi fare from the airport to Singapore EXPO is about $15 and to the city about $20, subject to surcharges. Foyer One Taxi Stand – I42  
+There are numerous taxis available in Singapore that oﬀer reliable services. The taxi fare from the airport to Singapore EXPO is about $15 and to the city about $20, subject to surcharges. 
+
+**Shortest walk to Meeting Rooms and Hall 2:** <br>
+Foyer One Taxi Stand – I42
