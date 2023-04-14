@@ -15,12 +15,12 @@ locations:
     maps_link: ""
     title: Show Venue
   - address:
-      - Singapore EXPO, Max Atria
+      - Singapore EXPO, MAX Atria
       - 1 Expo Drive
       - Singapore 486150
     operating_hours: []
     maps_link: ""
-    title: Conference Venue
+    title: Lecture Programme Venue
 contacts:
   - content:
       - phone: +65 6471 7141
