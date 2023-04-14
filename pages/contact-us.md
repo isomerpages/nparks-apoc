@@ -15,7 +15,7 @@ locations:
     maps_link: ""
     title: Show Venue
   - address:
-      - Max Atria
+      - Singapore EXPO, Max Atria
       - 1 Expo Drive
       - Singapore 486150
     operating_hours: []
