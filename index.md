@@ -14,7 +14,7 @@ sections:
         - title: Orchid Show Ticket
           description: Purchase Now
           url: /orchid-show-and-competitions/tickets/
-        - title: Lecture Programme ticket
+        - title: Conference Programme ticket
           description: Register Now
           url: /conference/registration/
       background: /images/orchid1.jpg
