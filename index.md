@@ -21,7 +21,8 @@ sections:
   - infopic:
       title: About 14th APOC
       description: APOC will feature the region’s best orchid plants and award-winning
-        orchid varieties with a five-day Show and a four-day Lecture programme.
+        orchid varieties with a five-day Show and a four-day Conference
+        programme.
       image: /images/organisers.jpg
       alt: Image alt text
 ---
