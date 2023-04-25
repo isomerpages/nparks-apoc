@@ -9,7 +9,7 @@ Show Dates	  : 16 - 20 August 2023 <br>
 Opening Hours : 10am – 9pm daily (Last admission at 8.30pm) <br>
 Venue		 : Singapore EXPO, Hall 2
 
-Tickets are now on sale on SISTIC. Enjoy early bird discount of 10% off published rate from now till 30 June 2023
+Tickets are now on sale at SISTIC. Enjoy early bird discount of 10% off published rate from now till 30 June 2023
 
    
 
