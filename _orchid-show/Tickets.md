@@ -59,6 +59,11 @@ Tickets are now on sale on SISTIC.
   border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:23.85pt"><p class="null" style="margin:0cm"><span style="font-family:&quot;Arial&quot;,sans-serif">Child * <i>(3 to 12 years old)</i></span></p></td><td width="168" colspan="2" valign="top" style="width:126.35pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:23.85pt"><p class="null" align="center" style="margin:0cm;text-align:center"><span class="null1"><span style="font-family:&quot;Arial&quot;,sans-serif">S$15</span></span><span style="font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr></tbody></table>
+	
+	
 
+\* ID Verification required for entry
 
+^ Singapore Citizens, Permanent Residents and individuals living in Singapore including holders of employment pass, work permit, dependent or student pass. Proof of residency may be required for admission.
 
+\# Ticket Prices excludes Booking Fee
