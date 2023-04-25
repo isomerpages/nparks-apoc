@@ -11,12 +11,5 @@ Venue		 : Singapore EXPO, Hall 2
 
 Tickets are now on sale at [SISTIC](https://www.sistic.com.sg/events/apoc2023b). Enjoy early bird discount of 10% off published rate from now till 30 June 2023
 
-![Show Ticketing Pricing](/images/show_ticket_pricing.jpg)
-
-
-
-_#_ _Ticket prices exclude booking fee  
-\* ID verification required for entry  
-^ Singapore Citizens, Permanent Residents and individuals living in Singapore including holders of employment pass, work permit, dependent or student pass. Proof of residency may be required for admission._
-
+![orchid_show_ticket_pricing](/images/orchid_show_ticket_pricing.jpg)
 For bulk tickets purchase, you may contact groupsales@sistic.com.sg
