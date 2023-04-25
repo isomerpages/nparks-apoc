@@ -105,5 +105,5 @@ Register now to enjoy Early Bird Special of **10%** off the published rates when
   mso-height-rule:exactly"><span class="null1"><span style="font-family:&quot;Arial&quot;,sans-serif">Additional 10% off current rate</span></span><span style="font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr></tbody></table>
 
 
-#Excludes Booking Fee <br>
-*ID Verification required for entry
+#Excludes booking fee <br>
+*ID verification required for entry
