@@ -65,3 +65,5 @@ Tickets are now on sale at SISTIC. Enjoy early bird discount of 10% off publishe
 \* ID Verification required for entry
 <br>^ Singapore Citizens, Permanent Residents and individuals living in Singapore including holders of employment pass, work permit, dependent or student pass. Proof of residency may be required for admission.
 <br>\# Ticket Prices excludes Booking Fee*
+
+For bulk tickets purchase, you may contact groupsales@sistic.com.sg
