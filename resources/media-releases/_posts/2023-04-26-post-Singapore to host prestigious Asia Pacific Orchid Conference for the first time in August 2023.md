@@ -25,7 +25,7 @@ Held every three years, the Asia Pacific Orchid Conference is the largest gather
 
 Visitors to the Orchid Show can also look forward to an exciting line-up of non-competitive displays and stage programmes, and a MarketPlace for orchid-related retail products with over 80 local and international booths. 
 
-For more information on APOC, including ticket sales, visit the website at www.apoc14.gov.sg, and find the latest updates at www.facebook.com/APOC14SG. 
+For more information on APOC, including ticket sales, visit the website at [www.apoc14.gov.sg](www.apoc14.gov.sg), and find the latest updates at [www.facebook.com/APOC14SG](www.facebook.com/APOC14SG). 
 
 
 -- End --
