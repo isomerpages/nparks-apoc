@@ -6,7 +6,7 @@ links:
     collection: conference-programme
   - title: Orchid Show
     collection: orchid-show
-  - title: Contact Us
-    url: /contact-us/
   - title: Resources
     resource_room: true
+  - title: Contact Us
+    url: /contact-us/
