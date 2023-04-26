@@ -8,7 +8,7 @@ description: Singapore to host prestigious Asia Pacific Orchid Conference for
   the first time in August 2023
 image: ""
 ---
-Singapore to host prestigious Asia Pacific Orchid Conference for the first time in August 2023
+**Singapore to host prestigious Asia Pacific Orchid Conference for the first time in August 2023**
 -	Highlights include an orchid plant competition with over 100 categories, and an orchid landscape competition featuring over 30 displays 
 -	Ticket sales start today and members of the public can enjoy an early bird discount from now till 30 June 2023
 
@@ -28,5 +28,4 @@ Visitors to the Orchid Show can also look forward to an exciting line-up of non-
 For more information on APOC, including ticket sales, visit the website at www.apoc14.gov.sg, and find the latest updates at www.facebook.com/APOC14SG. 
 
 
-- End -
-
+-- End --
