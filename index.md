@@ -2,7 +2,7 @@
 layout: homepage
 title: 14th Asia Pacific Orchid Conference 2023
 description: The 14th Asia Pacific Orchid Conference 2023 will be held from 16 –
-  20 Aug 2023 at Singapore EXPO (Hall 2)
+  20 Aug 2023 at Singapore EXPO (Hall 2).
 image: /images/logo.jpg
 permalink: /
 notification: ""
