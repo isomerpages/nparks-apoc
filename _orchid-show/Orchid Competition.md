@@ -9,4 +9,4 @@ Featuring over 100 categories, the orchid plant competition brings together the 
 #### Orchid Landscape Competition
 Featuring over 30 displays by orchid societies, associations and professional growers from the Asia Pacific region, the orchid landscape competition provides a platform for landscape designers to showcase their creativity through curating displays that play to the beauty and form of a wide array of orchids. Visitors can look forward to being immersed in beautiful orchid landscapes vying to win the title of best landscape display.
 
-If you are interested to take part, click here to download the competition kit.
+If you are interested to take part, click [here](https://www.apoc14.gov.sg/resources/) to download the competition kit.
