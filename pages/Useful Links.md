@@ -8,4 +8,3 @@ Show Layout:
 MarketPlace: 
 
 Conference Programme:
-
