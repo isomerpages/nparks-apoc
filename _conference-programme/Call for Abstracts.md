@@ -6,11 +6,11 @@ description: ""
 #### **Key Dates**
 
 
-| Abstract Submission Opens | 12 May 2023 | 
+| Abstract submission opens | 12 May 2023 | 
 | -------- | -------- | 
-| **Submission Deadline**     | **12 June 2023**     | 
+| **Submission deadline**     | **12 June 2023**     | 
 |**Notification of outcome will be sent by**     | **26 June 2023**     |
-|**Authors to register conference by**     | **10 July 2023**     |
+|**Authors to register for conference by**     | **10 July 2023**     |
 
 #### **Abstract Submission Instructions**
 
