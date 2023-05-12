@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - Registration.md
+      - Call for Abstracts.md
