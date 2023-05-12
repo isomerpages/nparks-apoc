@@ -35,9 +35,9 @@ c.       Please use bold font for the presenting author’s name; only one
 
 5.       Affiliation details of all authors
 
-a.       Affiliations should be indicated in numerical format (do not use symbols) and superscript, to the right of each author’s name, as such: Edred J. H. Corner 1
+a.       Affiliations should be indicated in numerical format (do not use symbols) and superscript, to the right of each author’s name, as such: Edred J. H. Corner [^1]
 
-b.       There should be a corresponding superscript number before the affiliated institute’s name and the line left-aligned, as such: 1 Institute name, town/ city, state, country
+b.       There should be a corresponding superscript number before the affiliated institute’s name and the line left-aligned, as such: [^1] Institute name, town/ city, state, country
 
 6.       Abstract text / length should be limited to 300 words and the paragraph alignment justified
 
