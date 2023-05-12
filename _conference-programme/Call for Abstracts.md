@@ -50,7 +50,7 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There should be a corresponding superscri
 
 6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstract text / length should be limited to 300 words and the paragraph alignment justified
 
-7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please use the abstract [template](https://go.gov.sg/abstract-template)  to prepare your abstract
+7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please use the abstract [template](https://go.gov.sg/abstract-template) to prepare your abstract
 
 #### **Abstract Selection**
 
