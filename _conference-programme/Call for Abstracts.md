@@ -3,7 +3,6 @@ title: Call for Abstracts
 permalink: /conference-programme/abstracts/
 description: ""
 ---
-
 #### **Abstract Submission Instructions**
 
 1.       The deadline for abstract submission is 12 June 2023
@@ -46,11 +45,11 @@ b.       There should be a corresponding superscript number before the aff
 
 #### **Abstract Selection**
 
-1.       Abstracts will be reviewed by the Conference Scientific Committee
+1.       Abstracts will be reviewed by the Conference Scientific Committee.
 
-2.       The submitting author will be informed about the acceptance or rejection of the submitted abstract for oral or poster presentation by 26 June 2023
+2.       The submitting author will be informed about the acceptance or rejection of the submitted abstract for oral or poster presentation by 26 June 2023.
 
-3.       By submitting an abstract, the submitting author confirms that all information contained in the abstract is correct and has been approved by the co-authors
+3.       By submitting an abstract, the submitting author confirms that all information contained in the abstract is correct and has been approved by the co-authors.
 
 4.       Submission of an abstract constitutes the author’s consent for publication. All abstracts will be published in the form of an electronic abstract book.
 
