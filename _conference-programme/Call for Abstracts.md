@@ -3,6 +3,15 @@ title: Call for Abstracts
 permalink: /conference-programme/abstracts/
 description: ""
 ---
+#### **Key Dates**
+
+
+| Abstract Submission Opens | 12 May 2023 | 
+| -------- | -------- | 
+| **Submission Deadline**     | **12 June 2023**     | 
+|**Notification of outcome will be sent by**     | **26 June 2023**     |
+|**Authors to register conference by**     | **10 July 2023**     |
+
 #### **Abstract Submission Instructions**
 
 1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The deadline for abstract submission is 12 June 2023
