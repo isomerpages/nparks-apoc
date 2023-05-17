@@ -20,7 +20,7 @@ locations:
       - Singapore 486150
     operating_hours: []
     maps_link: ""
-    title: Lecture Programme Venue
+    title: Conference Programme Venue
 contacts:
   - content:
       - phone: +65 6471 7141
@@ -32,4 +32,9 @@ contacts:
       - email: SU_Shihui@nparks.gov.sg
       - other: ""
     title: Sponsorship Opportunities
+  - content:
+      - phone: ""
+      - email: apoc14_conference@nparks.gov.sg
+      - other: ""
+    title: Conference Programme Enquiries
 ---
