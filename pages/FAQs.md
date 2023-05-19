@@ -3,7 +3,7 @@ title: FAQs
 permalink: /faqs/
 description: ""
 ---
-### **FAQ**
+### General Enquiries
 
 **Q) What is Asia Pacific Orchid Conference (APOC) about?** <br>
 A: Held every three years, APOC is the largest gathering of orchid researchers, professional growers, and enthusiasts in the Asia-Pacific region. It supports the exchange and dissemination of knowledge, practices, and trends in orchid development, biotechnology, science, and conservation among the orchid community.
