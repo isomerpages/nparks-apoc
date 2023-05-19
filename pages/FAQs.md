@@ -5,13 +5,11 @@ description: ""
 ---
 ### General Enquiries
 
-**Q) What is Asia Pacific Orchid Conference (APOC) about?** <br>
-A: Held every three years, APOC is the largest gathering of orchid researchers, professional growers, and enthusiasts in the Asia-Pacific region. It supports the exchange and dissemination of knowledge, practices, and trends in orchid development, biotechnology, science, and conservation among the orchid community.
+**Q) What is Asia Pacific Orchid Conference (APOC) about?** 
+<br> A: Held every three years, APOC is the largest gathering of orchid researchers, professional growers, and enthusiasts in the Asia-Pacific region. It supports the exchange and dissemination of knowledge, practices, and trends in orchid development, biotechnology, science, and conservation among the orchid community.
 
 **Q) Are there admission fees for the Show and Conference?**
-<br>A. Yes, tickets are required for entry to the Show and Conference.
-<br> More information on the Show ticketing can be found [here](https://www.apoc14.gov.sg/orchid-show-and-competitions/tickets/).
-<br>For the Conference registration, you can visit this [link](https://www.apoc14.gov.sg/conference/registration/).
+<br>A. Yes, tickets are required for entry to the Show and Conference. More information on the Show ticketing can be found [here](https://www.apoc14.gov.sg/orchid-show-and-competitions/tickets/). For the Conference registration, you can visit this [link](https://www.apoc14.gov.sg/conference/registration/).
 
 **Q) How do I get to the Show and Conference venue?**
 <br> A. Directions to the Singapore EXPO be found [here](https://www.apoc14.gov.sg/about-apoc14/gettinghere/)
