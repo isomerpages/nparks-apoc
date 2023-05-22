@@ -30,7 +30,7 @@ description: ""
 <br> A. Singapore's four official languages are Malay, Mandarin, Tamil and English. Because of its bilingual education policy, most citizens speak two or more languages - usually English and their ethnic mother tongue.
 
 **Q) What is the currency used in Singapore?**
-<br> A. The local currency is the&nbsp;Singapore Dollar (SGD).
+<br> A. The local currency is the Singapore Dollar (SGD).
 
 **Q) What is the standard voltage and power plug sockets used in Singapore?**
 <br> A. The standard voltage is 230V and the frequency is 50Hz. The power plug sockets are of type G but you can easily purchase a power plug adapter in Singapore.
