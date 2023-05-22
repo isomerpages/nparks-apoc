@@ -24,13 +24,13 @@ description: ""
 <br> A. Gender-segregated prayer rooms are available at the venue for visitors. They are located on Level 2 at the end of Hall 6.
 
 **Q) Which hotels are located close to the Conference venue?**
-<br> A. The closest hotels to the Singapore EXPO are Capri by Fraser Changi City and Park Avenue Changi Hotel, both of which are a 5-minute walk away.
+<br> A. The closest hotels to the Singapore EXPO are Capri by Fraser Changi City and Park Avenue Changi Hotel, both of which are a 10-minute walk away.
 
 **Q) What languages are spoken in Singapore?**
-<br> A. Singapore's four official languages are&nbsp;Malay, Mandarin, Tamil and English. Because of its bilingual education policy, most citizens speak two or more languages - usually English and their ethnic mother tongue.
+<br> A. Singapore's four official languages are Malay, Mandarin, Tamil and English. Because of its bilingual education policy, most citizens speak two or more languages - usually English and their ethnic mother tongue.
 
 **Q) What is the currency used in Singapore?**
-<br> A. The local currency is the&nbsp;Singapore Dollar (SGD).
+<br> A. The local currency is the Singapore Dollar (SGD).
 
 **Q) What is the standard voltage and power plug sockets used in Singapore?**
 <br> A. The standard voltage is 230V and the frequency is 50Hz. The power plug sockets are of type G but you can easily purchase a power plug adapter in Singapore.
@@ -39,7 +39,7 @@ description: ""
 <br> A. You may refer to [Travelling to Singapore](https://www.ica.gov.sg/enter-transit-depart) for more details.
 
 **Q) Are there any entry or visa requirements to enter Singapore?**
-<br> A. You may refer to&nbsp;[Travelling to Singapore](https://www.ica.gov.sg/enter-transit-depart)&nbsp;for more details.
+<br> A. You may refer to [Travelling to Singapore](https://www.ica.gov.sg/enter-transit-depart)&nbsp;for more details.
 
 **Q) If I require a letter of invitation for travel permission from my organisation and an entry visa into Singapore, whom should I contact?**
 <br> A. If you require a letter of invitation to obtain travel permission and assistance with your visa application\*, you can request it from the APOC Secretariat, by writing to [apoc14@nparks.gov.sg](mailto:apoc14@nparks.gov.sg)
