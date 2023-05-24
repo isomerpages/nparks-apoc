@@ -1,5 +1,5 @@
 collections:
-  conference-programme:
+  conference:
     output: true
     order:
       - Registration.md
