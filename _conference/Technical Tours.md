@@ -28,3 +28,5 @@ The Learning Forest is located in Tyersall-Gallop Core of the Singapore Botanic 
 ##### Gallop Extension Tour
 
 The Gallop Extension is an 8-hectare addition to the Singapore Botanic Gardens, bringing the total area of the Gardens to 82 hectares. It comprises two conserved buildings that have been refurbished into the Botanical Art Gallery and Forest Discovery Centre @ OCBC Arboretum, the COMO Adventure Grove, Mingxin Rambler's Ridge and OCBC Arboretum. The tour begins at the Visitor Centre at Gallop, and will take you through the OCBC Arboretum, viewing the dipterocarp collection. You will also experience the Mingxin Foundation Rambler’s Ridge, Forest Discovery Centre @ OCBC Arboretum and the Botanical Art Gallery.
+
+![Forest Discovery Centre](/images/forest%20discovery%20centre.jpg)
