@@ -48,7 +48,6 @@ description: ""
 
 ### Day 4 - Saturday, 19 Aug 2023
 
-
 | Time | Programme | 
 | -------- | -------- | 
 | Morning     | Technical Tours     |
