@@ -13,6 +13,7 @@ description: ""
 | 3.30pm - 4.00pm     | Tea Break | 
 | 4.00pm - 5.00pm     | Session 1 - Whang Lay Keng, Winston Wee, Eric Seah | 
 | 5.00pm - 6.00pm     | Panel discussion |
+| 6.30pm - 8.00pm     | Welcome Dinner |
 
 
 ### Day 2 - Thursday, 17 Aug 2023
@@ -46,6 +47,9 @@ description: ""
 | 5.00pm - 6.00pm     | Closing address by K Gopalan (Singapore) |
 
 ### Day 4 - Saturday, 19 Aug 2023
-| Time  | Programme | 
+
+
+| Time | Programme | 
 | -------- | -------- | 
-| Morning | Technical Tours |
+| Morning     | Technical Tours     | 
+
