@@ -23,7 +23,7 @@ For over 150 years, Singapore Botanic Gardens has been the birth place of South 
 ##### Learning Forest Tour
 
 The Learning Forest is located in Tyersall-Gallop Core of the Singapore Botanic Gardens. It is designed to integrate with the existing 6-hectare Rain Forest to form an enlarged forest habitat. It features a network of boardwalks and elevated walkways that allow visitors to explore habitats ranging from a freshwater forest wetland to a lowland rainforest. Visitors can learn about freshwater forest wetland ecosystems at the Keppel Discovery Wetlands and walk amongst a collection of some of the tallest tree species in Southeast Asia at the SPH Walk of Giants.
-
+![Learning Forest](/images/learning%20forest.jpg)
 
 ##### Gallop Extension Tour
 
