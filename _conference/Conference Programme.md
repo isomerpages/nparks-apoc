@@ -50,7 +50,7 @@ description: ""
 
 |Option | Time | Techinical Tours | 
 | --------| -------- | -------- | 
-| Option 1 | 9.00am - 10.30am     | National Orchid Garden     |
-| Option 2 | 9.00am - 12.30pm     | National Orchid Garden --> Learning Forest  |
-| Option 3 | 9.00am - 12.30pm     | Gallop Extension --> National Orchid Garden  |
-| Option 4 | 9.00am - 12.30pm     | Heritage Tour --> National Orchid Garden  |
+| Option 1 | 9.00am - 10.30am     | National Orchid Garden (1.5hr)    |
+| Option 2 | 9.00am - 12.30pm     | National Orchid Garden (1.5hr)--> Learning Forest (1.5hr) |
+| Option 3 | 9.00am - 12.30pm     | Gallop Extension (1.5hr)--> National Orchid Garden (1.5hr)  |
+| Option 4 | 9.00am - 12.30pm     | Heritage Tour (1.5hr)--> National Orchid Garden (1.5hr) |
