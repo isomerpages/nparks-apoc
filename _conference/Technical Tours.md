@@ -13,7 +13,7 @@ The National Orchid Garden, opened on 20 October 1995, is located on the highest
  
  This colour zoning is achieved by a careful blend of selected trees, shrubs, herbs and orchids (mostly hybrids) with matching foliage and floral colours.
 
-
+![National Orchid Garden](/images/national%20orchid%20garden.jpg)
 
 ##### Heritage Tour
 
