@@ -35,11 +35,11 @@ description: ""
 
 | Time  | Programme | 
 | -------- | -------- | 
-| 9.00am - 10.00am | Plenary session by Hong Liu (USA) - Conservation of Chinese orchids in Yunnan| 
+| 9.00am - 10.00am | Plenary session by Santi Watthana (Thailand) - Orchids of Thailand| 
 | 10.00am - 10.30am | Tea Break | 
 | 10.30am - 12.30pm     | Session 5 | 
 | 12.30pm - 1.30pm     | Buffet Lunch | 
-| 1.30pm - 2.30pm     | Plenary session by Alex Chang (Taiwan) - Orchid physiology | 
+| 1.30pm - 2.30pm     | Plenary session by Phil Spence (Australia) *Dendrobium*, section* Latouria* | 
 | 2.30pm - 3.30pm     | Session 6 | 
 | 3.30pm - 4.00pm     | Tea Break | 
 | 4.00pm - 5.00pm     | Session 7 | 
@@ -48,4 +48,4 @@ description: ""
 ### Day 4 - Saturday, 19 Aug 2023
 | Time  | Programme | 
 | -------- | -------- | 
-| Morning | Technical Tours | 
+| Morning | Technical Tours |
