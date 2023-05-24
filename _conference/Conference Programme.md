@@ -39,7 +39,7 @@ description: ""
 | 10.00am - 10.30am | Tea Break | 
 | 10.30am - 12.30pm     | Session 5 | 
 | 12.30pm - 1.30pm     | Buffet Lunch | 
-| 1.30pm - 2.30pm     | Plenary session by Phil Spence (Australia) *Dendrobium*, section* Latouria* | 
+| 1.30pm - 2.30pm     | Plenary session by Phil Spence (Australia) *Dendrobium*, section *Latouria* | 
 | 2.30pm - 3.30pm     | Session 6 | 
 | 3.30pm - 4.00pm     | Tea Break | 
 | 4.00pm - 5.00pm     | Session 7 | 
