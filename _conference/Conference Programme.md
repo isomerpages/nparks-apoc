@@ -51,5 +51,4 @@ description: ""
 
 | Time | Programme | 
 | -------- | -------- | 
-| Morning     | Technical Tours     | 
-
+| Morning     | Technical Tours     |
