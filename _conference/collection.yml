@@ -2,5 +2,6 @@ collections:
   conference:
     output: true
     order:
+      - Conference Programme.md
       - Registration.md
       - Call for Abstracts.md
