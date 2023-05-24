@@ -2,6 +2,7 @@ collections:
   conference:
     output: true
     order:
+      - Technical Tours.md
       - Registration.md
       - Conference Programme.md
       - Call for Abstracts.md
