@@ -17,7 +17,7 @@ The National Orchid Garden, opened on 20 October 1995, is located on the highest
 
 #### Heritage Tour
 
-For over 150 years, Singapore Botanic Gardens has been the birthplace of Southeast Asia's rubber and orchid industries. A walk through the Tanglin / Heritage Core of the Gardens will evoke memories of bygone days when ladies strolled through the Gardens with parasols and long skirts. Highlights of the tour include the Bandstand, various sculptures, Heritage Trees, the Main Gate, and Saraca Stream Walk.
+For over 160 years, Singapore Botanic Gardens has been the birthplace of Southeast Asia's rubber and orchid industries. A walk through the Tanglin / Heritage Core of the Gardens will evoke memories of bygone days when ladies strolled through the Gardens with parasols and long skirts. Highlights of the tour include the Bandstand, various sculptures, Heritage Trees, the Main Gate, and Saraca Stream Walk.
 ![Bandstand](/images/bandstand.jpg)
 
 #### Learning Forest Tour
