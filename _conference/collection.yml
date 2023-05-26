@@ -2,6 +2,7 @@ collections:
   conference:
     output: true
     order:
+      - Plenary Speakers.md
       - Registration.md
       - Conference Programme.md
       - Call for Abstracts.md
