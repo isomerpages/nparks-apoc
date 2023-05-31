@@ -3,5 +3,7 @@ collections:
     output: true
     order:
       - Registration.md
-      - Conference Programme.md
       - Call for Abstracts.md
+      - Conference Programme.md
+      - Plenary Speakers.md
+      - Technical Tours.md

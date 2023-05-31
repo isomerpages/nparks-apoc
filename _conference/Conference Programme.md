@@ -48,6 +48,9 @@ description: ""
 
 ### Day 4 - Saturday, 19 Aug 2023
 
-| Time | Programme | 
-| -------- | -------- | 
-| Morning     | Technical Tours     |
+|Option | Time | Techinical Tours | 
+| --------| -------- | -------- | 
+| Option 1 | 9.00am - 10.30am     | National Orchid Garden (1.5hr)    |
+| Option 2 | 9.00am - 12.30pm     | National Orchid Garden (1.5hr)--> Learning Forest (1.5hr) |
+| Option 3 | 9.00am - 12.30pm     | Gallop Extension (1.5hr) --> National Orchid Garden (1.5hr)  |
+| Option 4 | 9.00am - 12.30pm     | Heritage Tour (1.5hr)--> National Orchid Garden (1.5hr) |
