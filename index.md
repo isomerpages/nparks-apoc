@@ -25,4 +25,10 @@ sections:
         programme.
       image: /images/organisers.jpg
       alt: Image alt text
+  - infobar:
+      title: Welcome Message
+      subtitle: 14th APOC Steering Committee
+      description: from Dr Tan Puay Yok and Mr K Gopalan
+      button: read more
+      url: /welcome-message
 ---
