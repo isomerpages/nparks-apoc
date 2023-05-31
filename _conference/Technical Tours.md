@@ -5,13 +5,9 @@ description: ""
 ---
 #### National Orchid Garden Tour
 
-The National Orchid Garden, opened on 20 October 1995, is located on the highest hill in the Singapore Botanic Gardens. Three hectares of carefully landscaped slopes provide a setting for over 1,000 species and 2,000 hybrids, with about 600 species and hybrids on display. The distinctive feature of the National Orchid Garden not to be missed is its design concept which presents the display of plants in four separate colour zones over most of its areas:
-* "spring" zone with its prevailing colours of bright and lively shades of gold, yellow and creams
-* "summer" zone with its major tones of strong reds and pinks
-* "autumn" zone of matured shades
-* "winter" zone of whites and cool violet shades
- 
- This colour zoning is achieved by a careful blend of selected trees, shrubs, herbs and orchids (mostly hybrids) with matching foliage and floral colours.
+The National Orchid Garden at the Singapore Botanic Gardens is home to the largest and most comprehensive permanent tropical orchid display in Asia. Established in 1995, it houses approximately 3,000 orchid hybrids and 1,500 orchid species. The garden plays a significant role in the development of the orchid industry in the region and the conservation of Singapore's native orchid species.
+
+The garden recently introduced the Tropical Montane Orchidetum, featuring new and enhanced spaces for orchid and flora displays. It comprises two outdoor features – the Lowland Habitat Trail and Secret Ravine – as well as three display houses – the Yuen Peng McNeice Bromeliad Collection, Tan Hoon Siang Mist House, and The Sembcorp Cool House. Each display area exhibits landscapes and plant assemblages unique to the various habitat types that can be found at the different altitudinal zones of tropical mountains. The intent is to bring visitors through a series of contrasting yet complementary landscapes that culminate in the high-elevation montane forest experience of The Sembcorp Cool House.
 
 ![National Orchid Garden](/images/national%20orchid%20garden.jpg)
 
