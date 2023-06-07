@@ -14,15 +14,17 @@ description: ""
 
 #### **Abstract Submission Instructions**
 
-1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The deadline for abstract submission is 12 June 2023
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The call for abstracts is now open. The deadline for abstract submission is 12 June 2023.
 
-2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Only abstracts submitted as MS Word or OpenOffice files will be accepted. Please use the template provided.
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oral presentation slots are 20 minutes each, ideally comprising a 15-minute talk and 5-minute Q&amp;A.
 
-3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please email your abstract as a MS Word/OpenOffice file to the Conference Secretariat at [apoc14\_conference@nparks.gov.sg](mailto:apoc14_conference@nparks.gov.sg)
+3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Only abstracts submitted as MS Word or OpenOffice files will be accepted. Please use the template provided.
 
-4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A submission confirmation will be sent to the submitting author after the successful submission of the abstract
+4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please email your abstract as a MS Word/OpenOffice file to the Conference Secretariat at [apoc14\_conference@nparks.gov.sg](mailto:apoc14_conference@nparks.gov.sg)
 
-5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstract submission should be done by the presenting author as abstract acceptance is predicated on the presenting author being registered by 10 July 2023
+5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A submission confirmation will be sent to the submitting author after the successful submission of the abstract
+
+6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstract submission should be done by the presenting author as abstract acceptance is predicated on the presenting author being registered by 10 July 2023
 
 #### **Abstract Format**
 
