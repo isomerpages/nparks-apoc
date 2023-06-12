@@ -13,7 +13,7 @@ description: ""
 
 #### **Abstract Submission Instructions**
 
-1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The call for abstracts is now open. The deadline for abstract submission is 16 July 2023. Authors will be notified within one week of abstract submission
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The call for abstracts is now open. The deadline for abstract submission is 16 July 2023. Authors will be notified within one week of abstract submission.
 
 2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oral presentation slots are 20 minutes each, ideally comprising a 15-minute talk and 5-minute Q&amp;A.
 
