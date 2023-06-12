@@ -8,13 +8,12 @@ description: ""
 
 | Abstract submission opens | 12 May 2023 | 
 | -------- | -------- | 
-| **Submission deadline**     | **12 June 2023**     | 
-|**Notification of outcome will be sent by**     | **26 June 2023**     |
-|**Authors to register for conference by**     | **10 July 2023**     |
+| **Submission deadline**     | **16 July 2023**     | 
+|**Authors to register for conference by**     | **31 July 2023**     |
 
 #### **Abstract Submission Instructions**
 
-1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The call for abstracts is now open. The deadline for abstract submission is 12 June 2023.
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The call for abstracts is now open. The deadline for abstract submission is 16 July 2023. Authors will be notified within one week of abstract submission
 
 2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oral presentation slots are 20 minutes each, ideally comprising a 15-minute talk and 5-minute Q&amp;A.
 
