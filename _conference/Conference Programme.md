@@ -48,4 +48,4 @@ description: ""
 
 ### Day 4 - Saturday, 19 Aug 2023
 
-Techinical Tour: National Orchid Garden and Hertiage Tour
+Techinical Tour: National Orchid Garden and Heritage Tour
