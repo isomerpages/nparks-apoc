@@ -23,7 +23,7 @@ description: ""
 
 5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A submission confirmation will be sent to the submitting author after the successful submission of the abstract
 
-6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstract submission should be done by the presenting author as abstract acceptance is predicated on the presenting author being registered by 31 July 2023
+6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstract submission should be done by the presenting author as abstract acceptance is predicated on the presenting author being registered by 10 July 2023
 
 #### **Abstract Format**
 
