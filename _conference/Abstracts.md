@@ -10,3 +10,4 @@ description: ""
 | Phil Spence    | The species and hybrids of *Dendrobium* section *Latouria* and allied genera    | [Download](/files/Abstracts/phil_spence.pdf) |
 | Martin R. Motes     | A modern view of the genus *Vanda*  | [Download](/files/Abstracts/martin_motes.pdf)    |
 | Jose Portilla    | Ecuagenera: Conservation in action    | [Download](/files/Abstracts/jose_portilla.pdf) |
+| Yao-Chien Alex Chang | Factors that impact *Phalaenopsis* flowering and inflorescence quality | 
