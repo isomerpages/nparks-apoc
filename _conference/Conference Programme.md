@@ -24,7 +24,7 @@ description: ""
 | 10.00am - 10.30am | Tea Break | 
 | 10.30am - 12.30pm     | Session 2 | 
 | 12.30pm - 1.30pm     | Buffet Lunch | 
-| 1.30pm - 2.30pm     | Plenary session by Alex Chang (Taiwan) - Factors that impact Phalaenopsis flowering and inflorescence quality| 
+| 1.30pm - 2.30pm     | Plenary session by Alex Chang (Taiwan) - Factors that impact *Phalaenopsis* flowering and inflorescence quality| 
 | 2.30pm - 3.30pm     | Session 3 | 
 | 3.30pm - 4.00pm     | Tea Break | 
 | 4.00pm - 5.00pm     | Session 4 | 
