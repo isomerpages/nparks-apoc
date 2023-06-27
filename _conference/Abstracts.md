@@ -12,3 +12,4 @@ description: ""
 | Jose Portilla    | Ecuagenera: Conservation in action    | [Download](/files/Abstracts/jose_portilla.pdf) |
 | Yao-Chien Alex Chang | Factors that impact *Phalaenopsis* flowering and inflorescence quality |[Download](/files/Abstracts/alex_chang.pdf)|
 |Santi Watthana| Notes on native Thai orchid studies | [Download](/files/Abstracts/santi_watthana.pdf)
+|Daniel Sarpong| Exploring orchid diversity, conservation, culture, and hybridisation: A comprehensive approach for sustainable development |[Download](/files/Abstracts/daniel_sarpong.pdf) |
