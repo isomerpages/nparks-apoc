@@ -9,5 +9,4 @@ We look forward to welcoming you to Singapore this August!
 
 [Register now](https://www.sistic.com.sg/events/apoc2023a) to enjoy Early Bird Special of **10%** off the published rates when you sign up by 31 July 2023!
 
-
-![conference_registration_fees](/images/conference_registration_fees.JPG)
+![conference fee](/images/conference%20fee_ext.JPG)
