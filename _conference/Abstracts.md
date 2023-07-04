@@ -13,6 +13,7 @@ description: ""
 |Santi Watthana| Notes on native Thai orchid studies | [Download](/files/Abstracts/santi_watthana.pdf)
 
 
+
 ### Session
 
 | Author | Abstract Title | File |
@@ -25,4 +26,5 @@ description: ""
 |Martin R. Motes | Novelty *Vanda* hybrids using *Vanda* species | [Download](/files/Abstracts/martin_motes_session.pdf)|
 |Paul Chong Ren Huang | Cattleya cultivation under LED lights | [Download](/files/Abstracts/paul_chong.pdf) |
 |Rachel X. E. Tan | Foundation to future: The story of orchid hybridisation and naming in the Singapore Botanic Gardens | [Download](/files/Abstracts/rachel_tan.pdf)|
-|Thereis Y. S. Choo | Development and management of the National Orchid Garden: Building on its history and reputation, and reflecting the broader work of the Singapore Botanic Gardens | [Download](/files/Abstracts/thereis_choo.pdf)
+|Thereis Y. S. Choo | Development and management of the National Orchid Garden: Building on its history and reputation, and reflecting the broader work of the Singapore Botanic Gardens | [Download](/files/Abstracts/thereis_choo.pdf)|
+|Chi-Ching Kao | Recent *Paphiopedilum* breeding trends in Taiwan | [Download](/files/Abstracts/chi-ching_kao.pdf)
