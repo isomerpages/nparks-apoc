@@ -51,5 +51,4 @@ description: ""
 
 | Time | Programme |
 | -------- | -------- | 
-| 9.00am - 12.30pm  | **Technical tours** <br> National Orchid Garden Tour <br> Singapore Botanic Gardens Heritage Tour   | 
-
+| 9.00am - 12.30pm  | **Technical tours** <br> National Orchid Garden Tour <br> Singapore Botanic Gardens Heritage Tour   |
