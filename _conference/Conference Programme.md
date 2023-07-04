@@ -20,9 +20,9 @@ description: ""
 
 | Time  | Programme | 
 | -------- | -------- | 
-| 9.00am - 10.00am | Plenary session by Hong Liu (USA) - Conservation of Chinese orchids in Yunnan| 
+| 9.00am - 10.00am | **Plenary session: Orchid conservation in China** <br> Hong Liu| 
 | 10.00am - 10.30am | Tea Break | 
-| 10.30am - 12.30pm     | Session 2 | 
+| 10.30am - 12.30pm     | **Session 2** <br> **10.30am: Ecuagenera: Conservation in action** <br> Jose Portilla <br> **10.50am: The Million Orchid Project: A non-traditional approach to orchid conservation and restoration** <br> Jason Downing <br> **11.10am:** **Exploring orchid diversity, conservation, culture, and hybridisation: A comprehensive approach for sustainable development**<br> Daniel Sarpong <br> **11.30am: Orchid diversity in Singapore** <br> Matti Niissalo <br> **11.50am:** **Orchid conservation in the city: Case studies from Hong Kong and Singapore** <br> Ai-Qun Hu | 
 | 12.30pm - 1.30pm     | Buffet Lunch | 
 | 1.30pm - 2.30pm     | Plenary session by Alex Chang (Taiwan) - Factors that impact *Phalaenopsis* flowering and inflorescence quality| 
 | 2.30pm - 3.30pm     | Session 3 | 
