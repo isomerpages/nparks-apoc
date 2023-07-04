@@ -8,11 +8,11 @@ description: ""
 | Time  | Programme | 
 | -------- | -------- | 
 | 9.00am - 10.30am     | Opening Ceremony    | 
-| 1.30pm - 2.30pm     | Opening keynote address by Kenneth Er (Singapore) - Orchid conservation in Singapore| 
-| 2.30pm - 3.30pm     | Plenary session by Novianto (Indonesia) - Orchid hybridisation in Indonesia | 
+| 1.30pm - 2.30pm     | Opening keynote address: Orchid conservation in Singapore <br> Kenneth Er| 
+| 2.30pm - 3.30pm     | Plenary session: The breeding of *Dendrobium* section *Spatulata* in East Java <br> Novianto | 
 | 3.30pm - 4.00pm     | Tea Break | 
 | 4.00pm - 5.00pm     | Session 1 - Whang Lay Keng, Winston Wee, Eric Seah | 
-| 5.00pm - 6.00pm     | Panel discussion |
+| 5.00pm - 6.00pm     | Panel discussion chaired by Dr Teo Eng Soon <br> Eric Seah <br> Christopher Teo <br> Winston Wee |
 | 6.30pm - 8.00pm     | Welcome Dinner |
 
 
