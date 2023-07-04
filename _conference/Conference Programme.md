@@ -48,4 +48,8 @@ description: ""
 
 ### Day 4 - Saturday, 19 Aug 2023
 
-Technical Tour: National Orchid Garden and Heritage Tour
+
+| Time | Programme |
+| -------- | -------- | 
+| 9.00am - 12.30pm  | **Technical tours** <br> National Orchid Garden Tour <br> Singapore Botanic Gardens Heritage Tour   | 
+
