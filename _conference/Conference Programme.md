@@ -41,9 +41,9 @@ description: ""
 | 11.00am - 12.00pm     | **Session 5** <br> **11.00am:** **An introduction to Australian** ***Sarcochilus*** **“gems of the orchid world”** <br> Nette Meggetto <br> **11.20am: Novelty *Vanda* hybrids using *Vanda* species** <br> Martin Motes <br> **11:40am: The breeding of harlequin-type *Phalaenopsis*: A cytogenetic perspective** <br> Yung-I Lee| 
 | 12.00pm - 1.00pm     | Buffet Lunch | 
 | 1.00pm - 2.00pm     | **Plenary session: The species and hybrids of *Dendrobium* section *Latouria* and allied genera** <br> Phil Spence| 
-| 2.00pm - 3.00pm     | Session 6 | 
+| 2.00pm - 3.00pm     | **Session 6** <br>**2.00pm: Growing miniature orchids in the tropics** <br> Yuan Wah Leong <br> **2.20pm: *Cattleya* cultivation under LED lights** <br> Paul Chong <br> **2.40pm:** <br> Hiroto Goda| 
 | 3.00pm - 3.30pm     | Tea Break | 
-| 3.30pm - 4.30pm     | Session 7 | 
+| 3.30pm - 4.30pm     | **Session 7** <br> **3.30pm: Can orchids be eaten?** <br> Eng Soon Teoh | 
 | 4.30pm - 5.00pm     | **Closing address** <br> K Gopalan |
 
 ### Day 4 - Saturday, 19 Aug 2023
