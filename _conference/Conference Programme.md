@@ -25,7 +25,7 @@ description: ""
 | 10.30am - 12.30pm     | **Session 2** <br> **10.30am: Ecuagenera: Conservation in action** <br> Jose Portilla <br> **10.50am: The Million Orchid Project: A non-traditional approach to orchid conservation and restoration** <br> Jason Downing <br> **11.10am:** **Exploring orchid diversity, conservation, culture, and hybridisation: A comprehensive approach for sustainable development**<br> Daniel Sarpong <br> **11.30am: Orchid diversity in Singapore** <br> Matti Niissalo <br> **11.50am:** **Orchid conservation in the city: Case studies from Hong Kong and Singapore** <br> Ai-Qun Hu | 
 | 12.30pm - 1.30pm     | Buffet Lunch | 
 | 1.30pm - 2.30pm     | **Plenary session: Notes on native Thai orchid studies** <br> Santi Watthana| 
-| 2.30pm - 3.30pm     | Session 3 | 
+| 2.30pm - 3.30pm     | **Session 3** <br> **2.30pm:** **Unraveling the enigmatic charm: Challenges in morphological characterisation of highly threatened *Oberonia* species of section *Scylla* in Sri Lanka** <br> Champika Bandara | 
 | 3.30pm - 4.00pm     | Tea Break | 
 | 4.00pm - 5.00pm     | Session 4 | 
 | 5.00pm - 6.00pm     | Plenary session by Martin Motes (USA) - Changes and additions to the genus, *Vanda* |
