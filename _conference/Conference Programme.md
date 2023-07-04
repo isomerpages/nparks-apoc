@@ -36,10 +36,10 @@ description: ""
 
 | Time  | Programme | 
 | -------- | -------- | 
-| 9.00am - 10.00am | Plenary session by Santi Watthana (Thailand) - Orchids of Thailand| 
-| 10.00am - 10.30am | Tea Break | 
-| 10.30am - 12.30pm     | Session 5 | 
-| 12.30pm - 1.30pm     | Buffet Lunch | 
+| 9.30am - 10.30am | **Plenary session: Factors that impact Phalaenopsis flowering and inflorescence quality**  <br> Yao-Chien Alex Chang | 
+| 10.30am - 11.00am | Tea Break | 
+| 11.00am - 12.00pm     | **Session 5** <br> **11.00am:** **An introduction to Australian** ***Sarcochilus*** **“gems of the orchid world”** <br> Nette Meggetto <br> **11.20am: Novelty *Vanda* hybrids using *Vanda* species** <br> Martin Motes <br> **11:40am: The breeding of harlequin-type *Phalaenopsis*: A cytogenetic perspective** <br> Yung-I Lee| 
+| 12.00pm - 1.00pm     | Buffet Lunch | 
 | 1.30pm - 2.30pm     | Plenary session by Phil Spence (Australia) - *Dendrobium*, section *Latouria* | 
 | 2.30pm - 3.30pm     | Session 6 | 
 | 3.30pm - 4.00pm     | Tea Break | 
@@ -52,3 +52,5 @@ description: ""
 | Time | Programme |
 | -------- | -------- | 
 | 9.00am - 12.30pm  | **Technical tours** <br> National Orchid Garden Tour <br> Singapore Botanic Gardens Heritage Tour   |
+
+*Updated as of 5 July 2023, prorgramme subject to changes*
