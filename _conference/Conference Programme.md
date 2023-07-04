@@ -41,10 +41,10 @@ description: ""
 | 11.00am - 12.00pm     | **Session 5** <br> **11.00am:** **An introduction to Australian** ***Sarcochilus*** **“gems of the orchid world”** <br> Nette Meggetto <br> **11.20am: Novelty *Vanda* hybrids using *Vanda* species** <br> Martin Motes <br> **11:40am: The breeding of harlequin-type *Phalaenopsis*: A cytogenetic perspective** <br> Yung-I Lee| 
 | 12.00pm - 1.00pm     | Buffet Lunch | 
 | 1.00pm - 2.00pm     | **Plenary session: The species and hybrids of *Dendrobium* section *Latouria* and allied genera** <br> Phil Spence| 
-| 2.30pm - 3.30pm     | Session 6 | 
-| 3.30pm - 4.00pm     | Tea Break | 
-| 4.00pm - 5.00pm     | Session 7 | 
-| 5.00pm - 6.00pm     | Closing address by K Gopalan (Singapore) |
+| 2.00pm - 3.00pm     | Session 6 | 
+| 3.00pm - 3.30pm     | Tea Break | 
+| 3.30pm - 4.30pm     | Session 7 | 
+| 4.30pm - 5.00pm     | **Closing address** <br> K Gopalan |
 
 ### Day 4 - Saturday, 19 Aug 2023
 
