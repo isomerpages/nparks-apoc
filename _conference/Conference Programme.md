@@ -27,8 +27,8 @@ description: ""
 | 1.30pm - 2.30pm     | **Plenary session: Notes on native Thai orchid studies** <br> Santi Watthana| 
 | 2.30pm - 3.30pm     | **Session 3** <br> **2.30pm:** **Unraveling the enigmatic charm: Challenges in morphological characterisation of highly threatened *Oberonia* species of section *Scylla* in Sri Lanka** <br> Champika Bandara <br> **2.50pm: Micropropagation of native and VIP orchids at the Singapore Botanic Gardens** <br> Teng Seah Koh <br> **3.10pm: Development and management of the National Orchid Garden: Building on its history and reputation, and reflecting the broader work of the Singapore Botanic Gardens** <br> Thereis Choo | 
 | 3.30pm - 4.00pm     | Tea Break | 
-| 4.00pm - 5.00pm     | Session 4 | 
-| 5.00pm - 6.00pm     | Plenary session by Martin Motes (USA) - Changes and additions to the genus, *Vanda* |
+| 4.00pm - 5.00pm     | **Session 4** <br> **4.00pm: Foundation to future: The story of orchid hybridisation and naming in the Singapore Botanic Gardens** <br> Rachel Tan <br> **4.20pm: Fantastic orchids and where to find them in the National Orchid Garden** <br> Mark Choo <br> **4.40pm:** **Recent** ***Paphiopedilum*** **breeding trends in Taiwan** <br> Chi-Ching Kao | 
+| 5.00pm - 6.00pm     | **Plenary session: A modern view of the genus *Vanda*** <br> Martin Motes|
 
 
 
