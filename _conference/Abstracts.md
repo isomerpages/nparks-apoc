@@ -21,3 +21,6 @@ description: ""
 | Nette I. Meggetto | An Introduction to Australian *Sarcochilus* “gems of the orchid world”     | [Download](/files/Abstracts/nette_isabella_meggetto.pdf)    |
 |Daniel Sarpong| Exploring orchid diversity, conservation, culture, and hybridisation: A comprehensive approach for sustainable development |[Download](/files/Abstracts/daniel_sarpong.pdf) |
 | Jose Portilla    | Ecuagenera: Conservation in action    | [Download](/files/Abstracts/jose_portilla.pdf) |
+|Champika Bandara | Unraveling the enigmatic charm: challenges in morphological characterisation of highly threatened *Oberonia* species of section *Scylla* in Sri Lanka| [Download](/files/Abstracts/champika_bandara.pdf)|
+|Martin R. Motes | Novelty *Vanda* hybrids using *Vanda* species | [Download](/files/Abstracts/martin_motes_session.pdf)|
+|
