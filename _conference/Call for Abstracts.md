@@ -59,7 +59,7 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There should be a corresponding superscri
 
 1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstracts will be reviewed by the Conference Scientific Committee.
 
-2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The submitting author will be informed about the acceptance or rejection of the submitted abstract for oral or poster presentation by 26 June 2023.
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The submitting author will be informed about the acceptance or rejection of the submitted abstract for oral or poster presentation by 23 July 2023.
 
 3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; By submitting an abstract, the submitting author confirms that all information contained in the abstract is correct and has been approved by the co-authors.
 
