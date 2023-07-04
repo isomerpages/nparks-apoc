@@ -23,4 +23,5 @@ description: ""
 | Jose Portilla    | Ecuagenera: Conservation in action    | [Download](/files/Abstracts/jose_portilla.pdf) |
 |Champika Bandara | Unraveling the enigmatic charm: challenges in morphological characterisation of highly threatened *Oberonia* species of section *Scylla* in Sri Lanka| [Download](/files/Abstracts/champika_bandara.pdf)|
 |Martin R. Motes | Novelty *Vanda* hybrids using *Vanda* species | [Download](/files/Abstracts/martin_motes_session.pdf)|
+| Paul Chong Ren Huang | Cattleya cultivation under LED lights | [Download](/files/Abstracts/paul_chong.pdf) |
 |
