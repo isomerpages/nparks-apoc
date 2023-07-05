@@ -31,3 +31,4 @@ description: ""
 |Chi-Ching Kao | Recent *Paphiopedilum* breeding trends in Taiwan | [Download](/files/Abstracts/chi-ching_kao.pdf)
 |Matti A. Niissalo | Orchid diversity in Singapore | [Download](/files/Abstracts/matti_niissalo.pdf)
 |Rusea Go | The chronicles of wild orchid conservation in Malaysia, a new strategy for rapid documentation, discovery, and stakeholder participation | [Download](/files/Abstracts/rusea_go.pdf)
+|Choo G. P. Mark | Fantastic orchids and where to find them in the National Orchid Garden | [Download](/files/Abstracts/mark_choo.pdf)
