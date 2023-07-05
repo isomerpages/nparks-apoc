@@ -12,7 +12,7 @@ description: ""
 | 2.30pm - 3.30pm     | **Plenary session: The breeding of** ***Dendrobium*** **section** ***Spatulata*** **in East Java** <br> Novianto | 
 | 3.30pm - 4.00pm     | Tea Break | 
 | 4.00pm - 5.00pm     | **Session 1** <br><br> **4.00pm:** **Growing** ***Phalaenopsis*** **in an apartment** <br> Eric Seah <br><br> **4.20pm:** **Growing healthy, flowering orchids: The essentials** <br> Christopher Teo <br><br>**4.40pm:  Orchid show judging and its challenges** <br> Winston Wee | 
-| 5.00pm - 6.00pm     | **Panel discussion chaired by Dr Teo Eng Soon** <br> Eric Seah <br> Christopher Teo <br> Winston Wee |
+| 5.00pm - 6.00pm     | **Panel discussion chaired by Eng Soon Teoh** <br> Eric Seah <br> Christopher Teo <br> Winston Wee |
 | 6.30pm - 8.00pm     | **Welcome Dinner** |
 
 
@@ -53,4 +53,4 @@ description: ""
 | -------- | -------- | 
 | 9.00am - 12.30pm  | **Technical tours** <br> National Orchid Garden Tour <br> Singapore Botanic Gardens Heritage Tour   |
 
-*Updated as of 5 July 2023, prorgramme subject to changes*
+*Updated as of 5 July 2023, programme is subject to changes*
