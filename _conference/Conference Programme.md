@@ -22,7 +22,7 @@ description: ""
 | -------- | -------- | 
 | 9.00am - 10.00am | **Plenary session: Orchid conservation in China** <br> Hong Liu| 
 | 10.00am - 10.30am | Tea Break | 
-| 10.30am - 12.30pm     | **Session 2** <br><br> **10.30am: Ecuagenera: Conservation in action** <br> Jose Portilla <br><br> **10.50am: The Million Orchid Project: A non-traditional approach to orchid conservation and restoration** <br> Jason Downing <br><br> **11.10am:** **Exploring orchid diversity, conservation, culture, and hybridisation: A comprehensive approach for sustainable development**<br> Daniel Sarpong <br><br> **11.30am: Orchid diversity in Singapore** <br> Matti Niissalo <br><br> **11.50am:** **Orchid conservation in the city: Case studies from Hong Kong and Singapore** <br> Ai-Qun Hu | 
+| 10.30am - 12.30pm     | **Session 2** <br><br> **10.30am: Ecuagenera: Conservation in action** <br> Jose Portilla <br><br> **10.50am: The Million Orchid Project: A non-traditional approach to orchid conservation and restoration** <br> Jason Downing <br><br> **11.10am:** **Exploring orchid diversity, conservation, culture, and hybridisation: A comprehensive approach for sustainable development**<br> Daniel Sarpong <br><br> **11.30am: Orchid diversity in Singapore** <br> Matti Niissalo <br><br> **11.50am:** **Orchid conservation in the city: Case studies from Hong Kong and Singapore** <br> Ai-Qun Hu <br><br> **12.10pm: The chronicles of wild orchid conservation in Malaysia, a new strategy for rapid documentation, discovery, and stakeholder participation** <br> Rusea Go | 
 | 12.30pm - 1.30pm     | Buffet Lunch | 
 | 1.30pm - 2.30pm     | **Plenary session: Notes on native Thai orchid studies** <br> Santi Watthana| 
 | 2.30pm - 3.30pm     | **Session 3** <br> <br>**2.30pm:** **Unraveling the enigmatic charm: Challenges in morphological characterisation of highly threatened *Oberonia* species of section *Scylla* in Sri Lanka** <br> Champika Bandara <br><br> **2.50pm: Micropropagation of native and VIP orchids at the Singapore Botanic Gardens** <br> Teng Seah Koh <br><br> **3.10pm: Development and management of the National Orchid Garden: Building on its history and reputation, and reflecting the broader work of the Singapore Botanic Gardens** <br> Thereis Choo | 
@@ -36,7 +36,7 @@ description: ""
 
 | Time  | Programme | 
 | -------- | -------- | 
-| 9.30am - 10.30am | **Plenary session: Factors that impact Phalaenopsis flowering and inflorescence quality**  <br> Yao-Chien Alex Chang | 
+| 9.30am - 10.30am | **Plenary session: Factors that impact *Phalaenopsis* flowering and inflorescence quality**  <br> Yao-Chien Alex Chang | 
 | 10.30am - 11.00am | Tea Break | 
 | 11.00am - 12.00pm     | **Session 5** <br><br> **11.00am:** **An introduction to Australian** ***Sarcochilus*** **“gems of the orchid world”** <br> Nette Meggetto <br> <br>**11.20am: Novelty *Vanda* hybrids using *Vanda* species** <br> Martin Motes <br><br> **11:40am: The breeding of harlequin-type *Phalaenopsis*: A cytogenetic perspective** <br> Yung-I Lee| 
 | 12.00pm - 1.00pm     | Buffet Lunch | 
