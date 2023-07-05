@@ -53,4 +53,4 @@ description: ""
 | -------- | -------- | 
 | 9.00am - 12.30pm  | **Technical tours** <br> National Orchid Garden Tour <br> Singapore Botanic Gardens Heritage Tour   |
 
-*Updated as of 5 July 2023, programme is subject to changes*
+*Correct as of 5 July 2023. The programme may be subject to change without prior notice.*
