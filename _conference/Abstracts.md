@@ -29,3 +29,5 @@ description: ""
 |Rachel X. E. Tan | Foundation to future: The story of orchid hybridisation and naming in the Singapore Botanic Gardens | [Download](/files/Abstracts/rachel_tan.pdf)|
 |Thereis Y. S. Choo | Development and management of the National Orchid Garden: Building on its history and reputation, and reflecting the broader work of the Singapore Botanic Gardens | [Download](/files/Abstracts/thereis_choo.pdf)|
 |Chi-Ching Kao | Recent *Paphiopedilum* breeding trends in Taiwan | [Download](/files/Abstracts/chi-ching_kao.pdf)
+|Matti A. Niissalo | Orchid diversity in Singapore | [Download](/files/Abstracts/matti_niissalo.pdf)
+|Rusea Go | The chronicles of wild orchid conservation in Malaysia, a new strategy for rapid documentation, discovery, and stakeholder participation | [Download](/files/Abstracts/rusea_go.pdf)
