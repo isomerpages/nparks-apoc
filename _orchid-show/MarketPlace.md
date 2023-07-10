@@ -51,7 +51,7 @@ We are pleased to announce the following exhibitors joining us in MarketPlace.
 |	Toh Garden	|	Toh Garden is an orchid farm growing over 200 orchid hybrids in Singapore since 1994. We offer wholesale supply of high-quality orchids for bulk orders (retailers, florists, garden centres, landscape companies etc) and B2C directly via our web platform. <br><br>https://www.tohgarden.com/	|
 |	Tropical Exotique	|		|
 |	Tropicals Plants From South America	|	Tropical plants like Anthuriums, Philodendrons, Monsteras and terrarium plants. <br><br>https://tropicalsplants.com/	|
-|	Tum Soi Chang	|	We are expect in variegated plants from Thailand and Sansevieria Variegata. |
+|	Tum Soi Chang	|	We are expert in variegated plants from Thailand and Sansevieria Variegata. |
 |	Tung Chin Orchid Nursery	|	We cultivated and sold species orchids from South America, Southeast Asia and Africa. We own an orchid nursery in Kaohsiung.	|
 |	Woon Leng Nursery Pte Ltd	|	Orchids and exotic foliage, potting material, fertiliser, moss and drift wood<br><br>www.woonleng.com	|
 
