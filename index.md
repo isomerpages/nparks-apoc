@@ -18,12 +18,6 @@ sections:
           description: Register Now
           url: /conference/registration/
       background: /images/orchid1.jpg
-  - infobar:
-      title: Welcome Message
-      subtitle: 14th APOC Steering Committee
-      description: from Dr Tan Puay Yok and Mr K Gopalan
-      button: read more
-      url: /welcome-message
   - infopic:
       title: About 14th APOC
       description: APOC will feature the region’s best orchid plants and award-winning
@@ -31,6 +25,12 @@ sections:
         programme.
       image: /images/organisers.jpg
       alt: Image alt text
+  - infobar:
+      title: Welcome Message
+      subtitle: 14th APOC Steering Committee
+      description: from Dr Tan Puay Yok and Mr K Gopalan
+      button: read more
+      url: /welcome-message
   - infopic:
       title: We thank our sponsors
       image: /images/sponsor.JPG
