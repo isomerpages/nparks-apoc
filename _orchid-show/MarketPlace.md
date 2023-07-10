@@ -21,7 +21,7 @@ Shop to your heart’s content at our one-stop MarketPlace offering a wide varie
 |	JoeMam Orchid Thailand	|	We are expertise on Orchids, Aroid and rare plants.<br><br>[Peeraya Inpanich (Facebook)](http://facebook.com/profile.php?id=100010549083519)	|
 |	Joseph Wu Orchids	|	Phalaenopsis species, Phalaenopsis hybrid, orchids in other genus. <br><br>[JWorchids (Facebook)](https://m.facebook.com/jworchids)	|
 |	Jumbo Orchids	|	We specialised in Phalaenopsis, Catasetum, Cycnodes and Clowesia orchids. <br><br> www.jumboorchids.tw	|
-|	Kokkok Orchid Thailand	|	We are expertise on orchid species and hybrids with overseas shipment.  We also expand our variety of plants to Platycerium, Lycopodium, Tillandsia species and hybrids <br><br>Kokkok Orchid (Facebook)	|
+|	Kokkok Orchid Thailand	|	We are expertise on orchid species and hybrids with overseas shipment.  We also expand our variety of plants to Platycerium, Lycopodium, Tillandsia species and hybrids <br><br>[Kokkok Orchid (Facebook)](http://facebook.com/kokkok.orchid.1)	|
 |	Live with Plants	|	Philodendron, Monstera and Exotic plants <br><br>FB: Live with Plants	|
 |	Mukoyama Orchids International	|	Mukoyama Orchids has been developing and producing the commercial advanced orchids as cloned seeds since its foundation in 1965. Now located in Japan and China, we specializes in Cymbidium, Oncidium, Paphiopedilum, Zygopetalum and Miltonia. We also sell a fertilizer called MOLCOAT, which is specifically designed for orchids. <br><br> http://www.mukoyama.jp	|
 |	Mundiflora South Africa	|		|
