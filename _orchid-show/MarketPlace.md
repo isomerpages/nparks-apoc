@@ -41,14 +41,11 @@ Shop to your heart’s content at our one-stop MarketPlace offering a wide varie
 |	Singapore Orchid Growers’ Association	|	Singapore Orchid Growers’ Association (SOGA) is a non-political organization founded in 1976 by a group of commercial orchid growers in Singapore. The association helps to encourage the exchange of knowledge and experiences relating to orchid growing and strengthening the spirit of mutual assistance and co-operation among its members.	|
 |	Sita Nursery x BBMD: Bangkok Exotic plant	|	Rare and exotic foliage plant from Bangkok, Thailand <br><br>[Sita Nursery &amp; Garden](https://m.facebook.com/Sitanurseryandgarden)	|
 |	Smiley Plants	|	We are growers, importers, and exporters with experiences over 20 years of connections with quality ornamental plants in the country. Therefore, our products are varied and able to serve the needs, such as Orchids, Ferns, Aroid, Bromeliads &amp; Succulents, etc.	|
-|	Song Orchid	|		
-|	Suan Khun Mae ( Mum's Garden )	|	We will be selling plants like orchids, huperzia/lycopodium, hoya, platyceriums and gardening accessories and gardening books.	|
-|	Sun Moon Orchids Inc.	|	Orchid Plants, Potted Plants, Bonsai 	|
-|	Taiwan Scissors	|	"Garden tools. Flower Pruner . Sharpener . Water Sprayers
-Taiwan Scissors join Singapore Flower Festival from 2008
-Sale all kind garden works related tools.
-All the products made in Taiwan .Especially export to Germany and other European countries."	|
-|	Ten Shin Gardens, Taiwan	|	Our main specialty is to propagate mostly orchid species and awarded clones. Our nursery located in Yuanli Township in the beautiful Miaoli County, Taiwan. Every month, we go to orchid shows in either North America, Europe or Asia Pacific to deliver customers’ orders both retail and wholesale. <br><br>https://www.facebook.com/tenshingardens/	|
+|	Song Orchid	|		We are a local nursery selling various orchid species and hybrids. 
+|	Suan Khun Mae <br>( Mum's Garden )	|	We will be selling plants like Orchids, Huperzia, Lycopodium, Hoya, Platyceriums and gardening accessories and gardening books.	|
+|	Sun Moon Orchids Inc.	|	Orchid Plants, Bonsai and potted plants	|
+|	Taiwan Scissors	|	Garden tools. Flower Pruner . Sharpener . Water Sprayers Taiwan Scissors join Singapore Flower Festival from 2008 Sale all kind garden works related tools. All the products made in Taiwan. Especially export to Germany and other European countries.	|
+|	Ten Shin Gardens Taiwan	|	Our main speciality is to propagate mostly orchid species and awarded clones. Our nursery located in Yuanli Township in the beautiful Miaoli County, Taiwan. Every month, we go to orchid shows in either North America, Europe or Asia Pacific to deliver customers’ orders both retail and wholesale. <br><br>[tenshingardens](https://www.facebook.com/tenshingardens/)	|
 |	The 3 Keys	|	The 3 Keys is dedicated to introducing a wide array of plants for home decoration , mini landscape as well as plant styling<br><br>Instagram : the_3_keys	|
 |	Toh Garden	|	Toh Garden is an orchid farm growing over 200 orchid hybrids in Singapore since 1994. We offer wholesale supply of high-quality orchids for bulk orders (retailers, florists, garden centres, landscape companies etc) and B2C directly via our web platform. <br><br>Visit us at https://www.tohgarden.com/	|
 |	Tropical Exotique	|		|
