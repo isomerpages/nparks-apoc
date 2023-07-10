@@ -31,4 +31,8 @@ sections:
         programme.
       image: /images/organisers.jpg
       alt: Image alt text
+  - infopic:
+      title: We thank our sponsors
+      image: /images/sponsor.JPG
+      alt: Image alt text
 ---
