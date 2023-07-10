@@ -55,6 +55,7 @@ We are pleased to announce the following exhibitors joining us in MarketPlace.
 |	Tung Chin Orchid Nursery	|	We cultivated and sold species orchids from South America, Southeast Asia and Africa. We own an orchid nursery in Kaohsiung.	|
 |	Woon Leng Nursery Pte Ltd	|	Orchids and exotic foliage, potting material, fertiliser, moss and drift wood<br><br>www.woonleng.com	|
 
+Listing is accurate at the point of uploading.<br>
 Interested to participate as a vendor in our MarketPlace? You may register your interest&nbsp;[here](https://go.gov.sg/apocmarketplaceryi).
 
 ![MarketPlace](/images/marketplace.jpg)
