@@ -5,6 +5,7 @@ description: ""
 ---
 Shop to your heart’s content at our one-stop MarketPlace offering a wide variety of gardening-related lifestyle products.
 
+We are pleased to announce the following exhibitors joining us in MarketPlace.
 
 |	Booth Name	|	Booth Desciption 	|
 | -------- | -------- |
