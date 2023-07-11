@@ -10,7 +10,7 @@ We are pleased to announce the following exhibitors joining us in MarketPlace.
 |	Booth Name	|	Booth Description 	|
 | -------- | -------- |
 |	Bela Vista Orchids &amp; Hachinohe Orchid	|	All kinds of orchids.	|
-|	Ching Hua Orchids	|	Cattleya, Paphiopedilum, Phalaenopsis, Dendrobium, other Orchids species &amp; hybrids, seedlings and flasks. <br><br>Lists available, please download from our website: www.chinghuaorchids.com.tw	|
+|	Ching Hua Orchids	|	Cattleya, Paphiopedilum, Phalaenopsis, Dendrobium, other Orchids species &amp; hybrids, seedlings and flasks. <br><br>Lists available, please download from our website:<br><br> [Ching Hua Orchids](www.chinghuaorchids.com.tw)	|
 |	Cocoa Orchid Farm	|	At Cocoa Orchid Farm, we offer an extensive range of Paphiopedilum orchids, carefully selected for their superior quality and distinct characteristics. <br>Some of our products include Paphiopedilum species/hybrids, Fragrant Oncidium Cocoa Cappuccino, Cocoa Peach, Anthurium and Philodendron species. <br><br> http://cocoa.tw/	
 |	Ecuagenera <br>Ecuador	|	[Ecuagenera - Orchids of Ecuador](http://www.ecuagenera.com/)	|
 |	Far East Agriculture from Malaysia	|	Exotic Orchid species from all over the world e.g. Mokara / Vanda hybrid / Tillandsia sp. / Lycopodium sp. and unusual Anthurium hybrid. <br><br>[Far East Agriculture](http://facebook.com/profile.php?id=100085944753181&amp;mibextid=LQQJ4d)	|
