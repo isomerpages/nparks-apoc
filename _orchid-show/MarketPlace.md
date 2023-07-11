@@ -9,10 +9,10 @@ We are pleased to announce the following exhibitors joining us in MarketPlace.
 
 |	Booth Name	|	Booth Description 	|
 | -------- | -------- |
-|	Bela Vista Orchids &amp; Hachinohe Orchid	|	All kinds of orchids	|
+|	Bela Vista Orchids &amp; Hachinohe Orchid	|	All kinds of orchids.	|
 |	Ching Hua Orchids	|	Cattleya, Paphiopedilum, Phalaenopsis, Dendrobium, other Orchids species &amp; hybrids, seedlings and flasks. <br><br>Lists available, please download from our website: www.chinghuaorchids.com.tw	|
 |	Cocoa Orchid Farm	|	At Cocoa Orchid Farm, we offer an extensive range of Paphiopedilum orchids, carefully selected for their superior quality and distinct characteristics. <br>Some of our products include Paphiopedilum species/hybrids, Fragrant Oncidium Cocoa Cappuccino, Cocoa Peach, Anthurium and Philodendron species. <br><br> http://cocoa.tw/	
-|	Ecuagenera <br>South Africa	|		|
+|	Ecuagenera <br>Ecuador	|		|
 |	Far East Agriculture from Malaysia	|	Exotic orchid species from all over the world e.g. Mokara / Vanda hybrid / Tillandsia sp. / Lycopodium sp. and unusual Anthurium hybrid. <br><br>[Far East Agriculture](http://facebook.com/profile.php?id=100085944753181&amp;mibextid=LQQJ4d)	|
 |	Foresta Orchids from Indonesia	|	Since 1993, Foresta Orchids Nursery has long been a family-owned operated grower and orchids distributor of many varieties whether for locally or internationally. We are located in Pacet-Mojokerto, East Java. <br>Till today, we are still and always striving to be better at providing great quality orchids with an affordable price for our many collectors, growers, also the public in general. <br><br>[@Forestaorchids](https://instagram.com/forestaorchids?igshid=ZDc4ODBmNjlmNQ==)	|
 |	Greendot Creations Pte Ltd	|	Landscape services, apart from the leafy crowd favourites, there are unique selections of hard-to-find plants for the enthusiasts including mangrove and plants native to Singapore. Artisan craftsmanship pots to be compliment these plants and just being admired.<br><br> [@Hanaplantsg](https://www.instagram.com/hanaplantsg/)	|
