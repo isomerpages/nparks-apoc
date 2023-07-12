@@ -12,7 +12,7 @@ We are pleased to announce the following exhibitors joining us in MarketPlace.
 |	Bela Vista Orchids &amp; Hachinohe Orchid	|	All kinds of orchids.	|
 |	Ching Hua Orchids	|	Cattleya, Paphiopedilum, Phalaenopsis, Dendrobium, other Orchids species &amp; hybrids, seedlings and flasks. <br><br>Lists available, please download from our website:<br><br> [Ching Hua Orchids](http://www.chinghuaorchids.com.tw)	|
 |	Cocoa Orchid Farm	|	At Cocoa Orchid Farm, we offer an extensive range of Paphiopedilum orchids, carefully selected for their superior quality and distinct characteristics. <br>Some of our products include Paphiopedilum species/hybrids, Fragrant Oncidium Cocoa Cappuccino, Cocoa Peach, Anthurium and Philodendron species. <br><br>[Cocoa Orchid Farm](http://cocoa.tw/)
-|	Ecuagenera <br>Ecuador	|	[Ecuagenera - Orchids of Ecuador](http://www.ecuagenera.com/)	|
+|	Ecuagenera - Ecuador	| Ecuadorian Orchids and Tropical Plants<br><br>	[Ecuagenera - Orchids of Ecuador](http://www.ecuagenera.com/)	|
 |	Far East Agriculture from Malaysia	|	Exotic Orchid species from all over the world e.g. Mokara / Vanda hybrid / Tillandsia sp. / Lycopodium sp. and unusual Anthurium hybrid. <br><br>[Far East Agriculture](http://facebook.com/profile.php?id=100085944753181&amp;mibextid=LQQJ4d)	|
 |	Foresta Orchids from Indonesia	|	Since 1993, Foresta Orchids Nursery has long been a family-owned operated grower and orchids distributor of many varieties whether for locally or internationally. We are located in Pacet-Mojokerto, East Java. <br>Till today, we are still and always striving to be better at providing great quality orchids with an affordable price for our many collectors, growers, also the public in general. <br><br>[@Forestaorchids](https://instagram.com/forestaorchids?igshid=ZDc4ODBmNjlmNQ==)	|
 |	Greendot Creations Pte Ltd	|	Landscape services, apart from the leafy crowd favourites, there are unique selections of hard-to-find plants for the enthusiasts including mangrove and plants native to Singapore. Artisan craftsmanship pots to be compliment these plants and just being admired.<br><br> [@Hanaplantsg](https://www.instagram.com/hanaplantsg/)	|
@@ -55,7 +55,14 @@ We are pleased to announce the following exhibitors joining us in MarketPlace.
 |	Tung Chin Orchid Nursery	|	We cultivated and sold species orchids from South America, Southeast Asia and Africa. We own an orchid nursery in Kaohsiung.	|
 |	Woon Leng Nursery Pte Ltd	|	Orchids and exotic foliage, potting material, fertiliser, moss and drift wood<br><br>[Woon Leng](http://www.woonleng.com)	|
 
-Listing is accurate at the point of uploading.<br>
+Listing is accurate at the point of uploading.<br><br>
+
+
+
+| Phytosanitary Service Booth in MarketPlace | 
+| -------- | 
+| For customers intending to bring purchased plants back to their country, please apply for a phytosanitary certificate via  [GoBusiness Licensing Portal](http://www.gobusiness.gov.sg/) and visit the “Phytosanitary Service” booth for the inspection of plants and collection of the certificate.<br><br>Please note that visual inspection of the plants by an authorised NParks officer is mandatory prior to the issuance of the phytosanitary certificate. The onus is on the customer to obtain import permit from the country of destination before applying for NParks’ phytosanitary certification, as there may be restrictions and additional phytosanitary requirements such as laboratory test certification, treatment, etc. <br><br>Upon obtaining the import permit from the country of destination and application of phytosanitary certificate in GoBusiness Licensing Portal, the customer is required to bring the purchased plants to the “Phytosanitary Service” booth for the inspection and collection of phytosanitary certificates. <br><br>Operating Hours: 2:30pm to 5:30pm | 
+
 Interested to participate as a vendor in our MarketPlace? You may register your interest&nbsp;[here](https://go.gov.sg/apocmarketplaceryi).
 
 ![MarketPlace](/images/marketplace.jpg)
