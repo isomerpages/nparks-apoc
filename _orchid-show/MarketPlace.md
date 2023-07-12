@@ -55,7 +55,14 @@ We are pleased to announce the following exhibitors joining us in MarketPlace.
 |	Tung Chin Orchid Nursery	|	We cultivated and sold species orchids from South America, Southeast Asia and Africa. We own an orchid nursery in Kaohsiung.	|
 |	Woon Leng Nursery Pte Ltd	|	Orchids and exotic foliage, potting material, fertiliser, moss and drift wood<br><br>[Woon Leng](http://www.woonleng.com)	|
 
-Listing is accurate at the point of uploading.<br>
+Listing is accurate at the point of uploading.<br><br>
+
+
+
+| Phytosanitary Service Booth in MarketPlace | 
+| -------- | 
+| For customers intending to bring purchased plants back to their country, please apply for a phytosanitary certificate via  GoBusiness Licensing Portal (www.gobusiness.gov.sg/) and visit the “Phytosanitary Service” booth for the inspection of plants and collection of the certificate.<br><br>Please note that visual inspection of the plants by an authorised NParks officer is mandatory prior to the issuance of the phytosanitary certificate. The onus is on the exporter to obtain import permit from the country of destination before applying for NParks’ phytosanitary certification, as there may be restrictions and additional phytosanitary requirements such as laboratory test certification, treatment, etc. <br><br>Upon obtaining the import permit from the country of destination and application of phytosanitary certificate in GoBusiness Licensing Portal, the exporter is required to bring the purchased plants to the “Phytosanitary Service” booth for the inspection and collection of phytosanitary certificates. <br><br>Operating Hours: 2:30pm to 5:30pm | 
+
 Interested to participate as a vendor in our MarketPlace? You may register your interest&nbsp;[here](https://go.gov.sg/apocmarketplaceryi).
 
 ![MarketPlace](/images/marketplace.jpg)
