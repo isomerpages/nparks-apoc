@@ -44,7 +44,6 @@ Greendot Creations Pte Ltd	|	Landscape services, apart from the leafy crowd favo
 |	Sita Nursery x BBMD: Bangkok Exotic plant	|	Rare and exotic foliage plant from Bangkok, Thailand <br><br>[Sita Nursery &amp; Garden](https://m.facebook.com/Sitanurseryandgarden)	|
 |	Smiley Plants	|	We are growers, importers, and exporters with experiences over 20 years of connections with quality ornamental plants in the country. Therefore, our products are varied and able to serve the needs, such as Orchids, Ferns, Aroids, Bromeliads &amp; Succulents, etc.	|
 |	Song Orchid	|		We are a local nursery selling various orchid species and hybrids. 
-|	Garden Paradise Singapore |	We will be selling plants like Orchids, Huperzia, Lycopodium, Hoya, Platyceriums and gardening accessories and gardening books.	|
 |	Sun Moon Orchids Inc.	|	Orchid Plants, Bonsai and potted plants	|
 |	Taiwan Scissors	|	Garden tools, Flower Pruner, Sharpener, Water Sprayers. Taiwan Scissors join Singapore Garden Festival from 2008. Sale of all kind garden works related tools. All the products made in Taiwan. Especially export to Germany and other European countries.	|
 |	Ten Shin Gardens Taiwan	|	Our main speciality is to propagate mostly orchid species and awarded clones. Our nursery located in Yuanli Township in the beautiful Miaoli County, Taiwan. Every month, we attend orchid shows in either North America, Europe or Asia Pacific to deliver customers’ orders both retail and wholesale. <br><br>[tenshingardens](https://www.facebook.com/tenshingardens/)	|
