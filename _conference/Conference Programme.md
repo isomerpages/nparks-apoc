@@ -36,15 +36,15 @@ description: ""
 
 | Time  | Programme | 
 | -------- | -------- | 
-| 9.30am - 10.30am | **Plenary session: Factors that impact *Phalaenopsis* flowering and inflorescence quality**  <br> Yao-Chien Alex Chang | 
-| 10.30am - 11.00am | Tea Break | 
-| 11.00am - 12.00pm     | **Session 5** <br><br> **11.00am:** **An introduction to Australian** ***Sarcochilus*** **“gems of the orchid world”** <br> Nette Meggetto <br> <br>**11.20am: Novelty *Vanda* hybrids using *Vanda* species** <br> Martin Motes <br><br> **11:40am: The breeding of harlequin-type *Phalaenopsis*: A cytogenetic perspective** <br> Yung-I Lee| 
-| 12.00pm - 1.00pm     | Buffet Lunch | 
-| 1.00pm - 2.00pm     | **Plenary session: The species and hybrids of *Dendrobium* section *Latouria* and allied genera** <br> Phil Spence| 
-| 2.00pm - 3.00pm     | **Session 6** <br><br>**2.00pm: Growing miniature orchids in the tropics** <br> Yuan Wah Leong <br> <br>**2.20pm: *Cattleya* cultivation under LED lights** <br> Paul Chong <br><br> **2.40pm:** <br> Hiroto Goda| 
-| 3.00pm - 3.30pm     | Tea Break | 
-| 3.30pm - 4.30pm     | **Session 7** <br> <br>**3.30pm: Can orchids be eaten?** <br> Eng Soon Teoh | 
-| 4.30pm - 5.00pm     | **Closing address** <br> K Gopalan |
+| 9.00am - 10.00am | **Plenary session: Factors that impact *Phalaenopsis* flowering and inflorescence quality**  <br> Yao-Chien Alex Chang | 
+| 10.00am - 10.30am | Tea Break | 
+| 10.30am - 12.30pm     | **Session 5** <br><br> **10.30am:** **Unraveling the enigmatic charm: Challenges in morphological characterisation of highly threatened *Oberonia* species of section *Scylla* in Sri Lanka** <br> Champika Bandara <br> <br>**10.50am:** **Micropropagation of orchids at the Singapore Botanic Gardens and the use of organic additives in culture media**  <br> Teng Seah Koh <br><br> **11:40am: The breeding of harlequin-type *Phalaenopsis*: A cytogenetic perspective** <br> Yung-I Lee| 
+| 12.30pm - 1.30pm     | Buffet Lunch | 
+| 1.30pm - 2.30pm     | **Plenary session: The species and hybrids of *Dendrobium* section *Latouria* and allied genera** <br> Phil Spence| 
+| 2.30pm - 3.30pm     | **Session 6** <br><br>**2.30pm: Growing miniature orchids in the tropics** <br> Yuan Wah Leong <br> <br>**2.50pm: *Cattleya* cultivation under LED lights** <br> Paul Chong <br><br>**3.10pm:** **JOGA judging and recent trends in Japan** <br> Hiroto Goda| 
+| 3.30pm - 4.00pm     | Tea Break | 
+| 4.00pm - 5.00pm     | **Session 7** <br> <br>**4.00pm: Can orchids be eaten?** <br> Eng Soon Teoh <br> <br> **4.20pm:** **Unveiling the therapeutic potential of orchids through molecular approaches** <br> Arshpreet Kaur | 
+| 5.00pm - 5.30pm     | **Closing address** <br> K Gopalan |
 
 ### Day 4 - Saturday, 19 Aug 2023
 
