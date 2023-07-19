@@ -43,7 +43,7 @@ description: ""
 | 1.30pm - 2.30pm     | **Plenary session: The species and hybrids of *Dendrobium* section *Latouria* and allied genera** <br> Phil Spence| 
 | 2.30pm - 3.30pm     | **Session 6** <br><br>**2.30pm: Growing miniature orchids in the tropics** <br> Yuan Wah Leong <br> <br>**2.50pm: *Cattleya* cultivation under LED lights** <br> Paul Chong <br><br>**3.10pm:** **JOGA judging and recent trends in Japan** <br> Hiroto Goda| 
 | 3.30pm - 4.00pm     | Tea Break | 
-| 4.00pm - 5.00pm     | **Session 7** <br> <br>**4.00pm: Can orchids be eaten?** <br> Eng Soon Teoh <br> <br> **4.20pm:** **Unveiling the therapeutic potential of orchids through molecular approaches** <br> Arshpreet Kaur | 
+| 4.00pm - 5.00pm     | **Session 7** <br> <br>**4.00pm: Can orchids be eaten?** <br> Eng Soon Teoh <br> <br> **4.20pm:** **Unveiling the therapeutic potential of orchids through molecular approaches** <br> Arshpreet Kaur <br> <br> **4.40pm:** **TBC** <br> | 
 | 5.00pm - 5.30pm     | **Closing address** <br> K Gopalan |
 
 ### Day 4 - Saturday, 19 Aug 2023
