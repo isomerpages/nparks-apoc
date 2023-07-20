@@ -38,3 +38,5 @@ description: ""
 |Teng Seah Koh| Micropropagation of orchids at the Singapore Botanic Gardens and the use of organic additives in culture media | [Download](/files/Abstracts/koh_teng_seah.pdf)|
 |Arshpreet Kaur| Unveiling the therapeutic potential of orchids through molecular approaches |[Download](/files/Abstracts/arshpreet_kaur.pdf)
 |Eric Seah | Growing Phalaenopsis in an apartment | [Download](/files/Abstracts/eric_seah.pdf)
+|Hiroto Goda | JOGA judging and recent trends in Japan | [Download](/files/Abstracts/hiroto_goda.pdf)
+|Nooduan Muangsan |Diversity and *ex situ* conservation of terrestrial orchids in Khao Yai National Park, Thailand | [Download](/files/Abstracts/nooduan_muangsan.pdf)
