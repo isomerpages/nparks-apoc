@@ -7,13 +7,13 @@ description: ""
 
 | Time  | Programme | 
 | -------- | -------- | 
-| 9.00am - 10.30am     | Opening Ceremony    | 
+| 9.00am - 10.30am     | **Opening Ceremony** <br>(Guests arrival at 8.30am)   | 
 | 1.30pm - 2.30pm     | **Opening keynote address: Orchid conservation in Singapore** <br> Kenneth Er| 
 | 2.30pm - 3.30pm     | **Plenary session: The breeding of** ***Dendrobium*** **section** ***Spatulata*** **in East Java** <br> Novianto | 
 | 3.30pm - 4.00pm     | Tea Break | 
 | 4.00pm - 5.00pm     | **Session 1** <br><br> **4.00pm:** **Growing** ***Phalaenopsis*** **in an apartment** <br> Eric Seah <br><br> **4.20pm:** **Growing healthy, flowering orchids: The essentials** <br> Christopher Teo <br><br>**4.40pm:  Orchid show judging and its challenges** <br> Winston Wee | 
 | 5.00pm - 6.00pm     | **Panel discussion chaired by Eng Soon Teoh** <br> Eric Seah <br> Christopher Teo <br> Winston Wee |
-| 6.30pm - 8.00pm     | **Welcome Dinner** |
+| 6.30pm - 8.00pm     | **Welcome Dinner** <br>(Guests arrival at 6.15pm)|
 
 
 ### Day 2 - Thursday, 17 Aug 2023
