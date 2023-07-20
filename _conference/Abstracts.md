@@ -35,3 +35,4 @@ description: ""
 |Yung-I Lee | The breeding of harlequin-type *Phalaenopsis*: a cytogenetic perspective | [Download](/files/Abstracts/yung-i_lee.pdf)
 |Thitiporn Pingyot | Orchid diversity and conservation in Thailand: A case study of *Dendrobium* orchids in the northern region | [Download](/files/Abstracts/thitiporn_pingyot.pdf)
 |Anchalee Nuammee| *Ex situ* orchid conservation at the Botanical Garden Organization (BGO) | [Download](/files/Abstracts/anchalee_nuammee.pdf)|
+|Teng Seah Koh| Micropropagation of orchids at the Singapore Botanic Gardens and the use of organic additives in culture media | [Download](/files/Abstracts/koh_teng_seah.pdf)|
