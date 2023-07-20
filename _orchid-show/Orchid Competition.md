@@ -14,7 +14,7 @@ Featuring over 20 displays by orchid societies, associations and professional gr
 
 | Plot number (25 sqm) |Name of Exhibitor | 
 | -------- | -------- | 
-|	A1	|	Fern & Nature Society of the Philippines, Inc	|
+|	A1	|	Fern &amp; Nature Society of the Philippines, Inc	|
 |	A2	|	Taiwan Orchid Growers Association	|
 |	A3	|	Indonesia Orchids Community	|
 |	A4	|	Singapore Orchid Growers’ Association	|
@@ -25,6 +25,7 @@ Featuring over 20 displays by orchid societies, associations and professional gr
 |	A9	|	Fairchild Tropical Botanic Garden: The Million Orchid Project	|
 |	A10	|	Singapore Botanic Gardens	|
 
+<br>
 
 | Plot number (9 sqm) |Name of Exhibitor | 
 | -------- | -------- | 
