@@ -3,7 +3,10 @@ title: MarketPlace
 permalink: /MarketPlace/
 description: ""
 ---
-Shop to your heart’s content at our one-stop MarketPlace offering a wide variety of gardening-related lifestyle products.
+Shop to your heart’s content at our one-stop MarketPlace offering a variety of gardening-related lifestyle products.
+
+Location: Singapore EXPO, Hall 2<br>
+Admission: **Free**
 
 We are pleased to announce the following exhibitors joining us in MarketPlace.
 
