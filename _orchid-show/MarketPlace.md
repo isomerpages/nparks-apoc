@@ -3,13 +3,17 @@ title: MarketPlace
 permalink: /MarketPlace/
 description: ""
 ---
-Shop to your heart’s content at our one-stop MarketPlace offering a wide variety of gardening-related lifestyle products.
+Shop to your heart’s content at our one-stop MarketPlace offering a variety of gardening-related lifestyle products.
+
+Location: Singapore EXPO, Hall 2<br>
+Admission: **Free**
 
 We are pleased to announce the following exhibitors joining us in MarketPlace.
 
 |	Booth Name	|	Booth Description 	|
 | -------- | -------- |
-|	Bela Vista Orchids &amp; Hachinohe Orchid	|	All kinds of orchids.	|
+|Aroids Thailand|We are Aroids Thailand, a group of Thai nurseries who come together to attend the overseas plant event. We have a variety of plants and collectibles such as Hoya, Orchid, Monstera, Philodendron, Anthurium, Syngonium, Scindapsus and others that will be ready for you to own with a friendly price and quality.|
+Bela Vista Orchids &amp; Hachinohe Orchid	|	All kinds of orchids.	|
 |	Ching Hua Orchids	|	Cattleya, Paphiopedilum, Phalaenopsis, Dendrobium, other Orchids species &amp; hybrids, seedlings and flasks. <br><br>Lists available, please download from our website:<br><br> [Ching Hua Orchids](http://www.chinghuaorchids.com.tw)	|
 |	Cocoa Orchid Farm	|	At Cocoa Orchid Farm, we offer an extensive range of Paphiopedilum orchids, carefully selected for their superior quality and distinct characteristics. <br>Some of our products include Paphiopedilum species/hybrids, Fragrant Oncidium Cocoa Cappuccino, Cocoa Peach, Anthurium and Philodendron species. <br><br>[Cocoa Orchid Farm](http://cocoa.tw/)
 | DreamOrchids by IOrchids| We offer a variety of foliage, interesting and unusual orchids hybrids and species from the regions.|
@@ -32,12 +36,13 @@ Greendot Creations Pte Ltd	|	Landscape services, apart from the leafy crowd favo
 |	Neo Cheng Soon Farm	|	Dendrobium Species, Hybrids, Cattleya, Vanda, some Hoya species and ornamental plants	|
 New Joo Guan Nursery | New Joo Guan Nursery offers a great selection of plant products, ranging from home-grown local plants, edible plants, indoor plants to unique plants imported from our trusted distributing partners worldwide. To name a few such as, Mint, Basil, Lemon Balm, Roselle, Starfruit, Airplants, Snake plants, Adenium, Lemongrass, Gardening soil, Fertilizers etc. <br><br>[New Joo Guan Nursery](https://www.newjooguannursery.com/home-1)
 |	Noi Gardens	|	Caudex plants, Orchid, Aroids and Tubers etc <br><br>[Noi Gardens](http://facebook.com/noigardens.sg/)	|
-|	NT Orchids	|		|
+|	NT Orchid Nursery Malaysia	|	Selling of South East Asia species abd some unique hybrids.	|
 |	Orchid Society of South East Asia 	|	Established since 1928, Orchid Society of South East Asia (OSSEA) is one of the oldest orchid societies in Asia, and promotes orchid conservation, breeding, propagation and cultivation practices in tropical lowland environments. Members meet once a month at Singapore Botanic Gardens’ Botany Centre to attend talks, bring their best plants for table judging and commentary, and meet like-minded enthusiasts.  A variety of plants are usually on sale the meetings and members can also take part in a raffle draw for quality plants.  OSSEA organises occasional trips to regional orchid shows and national parks known for their conservation practices of endemic orchids, and to local and overseas nurseries. OSSEA publishes the bi-monthly Bulletin, the annual Malayan Orchid Review, and books on SE Asian species, hybrids and orchid growing, especially for beginners. <br><br>As part of our outreach program OSSEA participates in community activities such as giving talks and potting demonstrations at HortPark’s popular event Gardeners’ Day Out. We also maintain a showpiece plot at HortPark where members of the public can observe tropical orchids at close range and learn something about cultivation and landscape practices. In April 2023, OSSEA held an Orchid Show at Tanglin Mall. <br><br>A highlight of our calendar would be hosting the World Orchid Conference (WOC) and the Asia Pacific Orchid Conference (APOC), both of which, like the Olympic Games, are held only once every few years in a different world city. Through OSSEA and our partners National Parks Board, Singapore has hosted WOC only twice in its 80-year history, and once (2023) for APOC. These are considered one of the most important events in the calendar of orchid botanists, professional growers and hobbyists the world over, who come together to attend talks, take part in floral and landscape competitions and enjoy the breathtaking displays that spearhead a spectacular show which never fails to capture the public’s imagination. 	|
 |	Orchidkrub Thailand	|	We specialised on healthy Orchid species and hybrids plants. We supply and deliver overseas.<br><br>[Orchid Krub](http://facebook.com/profile.php?id=100088877007714)	|
 |	Orchidschamber/Thai exotic greenery	|	Aroid plants, tissue culture plants<br><br>[@OrchidsChamber](https://www.instagram.com/orchidschamber/)<br>[@thaiexoticgreenery](https://www.instagram.com/thaiexoticgreenery/)	|
 |	Orchis Floriculturing Inc.	|	We have about more than 3000 varieties available. 70% of our outputs export to overseas, and 30% are in domestic market. The past 25 years, we are rewarded with more than 300 international rewards, included Grand Champion of the 16th and 20th World Orchid Conference. <br><br>[Orchis Floriculturing](http://www.orchis.com.tw) |
-|	Orquideas Amazonicas / Plants Ate My Money	|	Exotic Peruvian Orchids, Orchid Growing Medium, New Generation Potting Mixes and Gold Standard Substrates. <br><br>[Plant Ate My Money](http://www.plantsatemymoney.com)	|
+|	Orquideas Amazonicas / Plants Ate My Money	|	Exotic Peruvian Orchids, Orchid Growing Medium, New Generation Potting Mixes and Gold Standard Substrates. <br><br>[Plant Ate My Money](http://www.plantsatemymoney.com)	| 
+Pasir Panjang Nursery, National Parks Board| Pasir Panjang Nursery will be selling many types of plants. They include ornamental plants, fruit trees, edible plants, herbs and palms. You can also grab our popular plant guide - '1001' garden Plants in Singapore: A New Compendium'. |
 |	Petale Tea	|	Singapore's 1st Blooming Tea Specialist offers over 40 types of blooming teas. Some notable flavours are Japanese Strawberry-rose, Korean Peaches and even Singapore breakfast: Nasi Lemak! <br>This marketplace's highlight: Teabar by Petale Tea featuring 18 curated tea ingredients &amp; flower infusions. Blend and create your own recipe. Interesting hands-on session. Great for all ages. <br><br>[Petale Tea](http://www.petaletea.com)	|
 |	Plants of paradise (POP)	|	Aroid plants <br><br>[PlantsofParadisesg](https://facebook.com/Plantsofparadisesg?mibextid=LQQJ4d)	|
 |	PN Garden / Adiantum Time	|	Aroid plants and jungle plants <br><br>[@PN Garden](https://instagram.com/pn.garden?igshid=Y2I2MzMwZWM3ZA==)<br>[Adiantum Time](https://www.facebook.com/adiantumtime.nursery/)	|
@@ -51,7 +56,7 @@ New Joo Guan Nursery | New Joo Guan Nursery offers a great selection of plant pr
 |	Ten Shin Gardens Taiwan	|	Our main speciality is to propagate mostly orchid species and awarded clones. Our nursery located in Yuanli Township in the beautiful Miaoli County, Taiwan. Every month, we attend orchid shows in either North America, Europe or Asia Pacific to deliver customers’ orders both retail and wholesale. <br><br>[tenshingardens](https://www.facebook.com/tenshingardens/)	|
 |	The 3 Keys	|	The 3 Keys is dedicated to introducing a wide array of plants for home decoration, mini landscape as well as plant styling<br><br>[@the\_3\_keys](https://www.instagram.com/the_3_keys/)	|
 |	Toh Garden	|	Toh Garden is an orchid farm growing over 200 orchid hybrids in Singapore since 1994. We offer wholesale supply of high-quality orchids for bulk orders (retailers, florists, garden centres, landscape companies etc) and B2C directly via our web platform. <br><br>[Toh Gardens](https://www.tohgarden.com/)	|
-|	Tropical Exotique	|		|
+|	TropicalExotique	|	Asian orchids and exotic plants	|
 |	Tropicals Plants From South America	|	Tropical plants like Anthuriums, Philodendrons, Monsteras and terrarium plants. <br><br>[Tropicals Plants From South America](https://tropicalsplants.com/)	|
 |	Tum Soi Chang	|	We are expert in variegated plants from Thailand and Sansevieria Variegata. |
 |	Tung Chin Orchid Nursery	|	We cultivated and sold species orchids from South America, Southeast Asia and Africa. We own an orchid nursery in Kaohsiung.	|
