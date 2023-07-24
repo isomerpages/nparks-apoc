@@ -12,7 +12,7 @@ description: ""
 | Yao-Chien Alex Chang | Factors that impact *Phalaenopsis* flowering and inflorescence quality |[Download](/files/Abstracts/alex_chang.pdf)|
 |Santi Watthana| Notes on native Thai orchid studies | [Download](/files/Abstracts/santi_watthana.pdf)
 |Hong Liu | Orchid conservation in China | [Download](/files/Abstracts/hong_liu.pdf)
-
+|Novianto | The breeding of *Dendrobium* section *Spatulata* in East Java |[Download](/files/Abstracts/novianto.pdf)|
 
 
 ### Session
