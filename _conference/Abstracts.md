@@ -42,3 +42,4 @@ description: ""
 |Nooduan Muangsan |Diversity and *ex situ* conservation of terrestrial orchids in Khao Yai National Park, Thailand | [Download](/files/Abstracts/nooduan_muangsan.pdf)
 |Leong Yuan Wah| Growing miniature orchids in the tropics | [Download](/files/Abstracts/leong_yuan_wah.pdf)|
 |Winston Wee | Orchid show judging and its challenges | [Download](/files/Abstracts/winston_wee.pdf)|
+|Christopher Teo | Growing *Papilionanthe* and *Papilionanda* | [Download](/files/Abstracts/christopher_teo.pdf)
