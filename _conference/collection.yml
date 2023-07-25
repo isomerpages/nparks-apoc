@@ -2,6 +2,7 @@ collections:
   conference:
     output: true
     order:
+      - Example Title.md
       - Registration.md
       - Call for Abstracts.md
       - Conference Programme.md
