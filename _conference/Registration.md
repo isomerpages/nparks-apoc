@@ -3,7 +3,7 @@ title: Registration
 permalink: /conference/registration/
 description: ""
 ---
-The Conference Programme held from 16 to 19 August 2023, will feature a mix of keynote and plenary talks, symposia and a poster session, with the fourth day dedicated to technical tours. The keynote and plenary speakers hail from  Singapore, Indonesia, Thailand, Taiwan, Australia and USA and will speak on topics ranging from orchid diversity and conservation to orchid culture and hybridisation.
+The Conference Programme held from 16 to 19 August 2023, will feature a mix of keynote, plenary talks and symposia, with the fourth day dedicated to technical tours. The keynote and plenary speakers hail from  Singapore, Indonesia, Thailand, Taiwan, Australia and USA and will speak on topics ranging from orchid diversity and conservation to orchid culture and hybridisation.
 
 We look forward to welcoming you to Singapore this August!
 
