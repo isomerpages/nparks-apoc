@@ -10,7 +10,7 @@ Floral exhibits by Floral Designers Society (Singapore) and Ikebana Internationa
 Floral fashion showcase by students from ITE College Central
 
 #### Wonders of Orchids
-Featuring photos of orchids contributed by members of the public, in partnership with Nikon and Photographic Society of Singapore.
+Featuring photos of orchids contributed by members of the public presented by Nikon and Photographic Society of Singapore.
 
 #### Orchids & Art
 Showcasing a selection of botanical art from the Singapore Botanic Gardens’ archives
