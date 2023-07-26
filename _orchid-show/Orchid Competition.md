@@ -17,9 +17,9 @@ Featuring over 20 displays by orchid societies, associations and professional gr
 |	A1	|	Fern &amp; Nature Society of the Philippines, Inc	|
 |	A2	|	Taiwan Orchid Growers Association	|
 |	A3	|	Indonesia Orchids Community	|
-|	A4	|	Singapore Orchid Growers’ Association	|
+|	A4	|	Singapore Orchid Growers’ Association (Non-competitive)	|
 |	A5	|	Cambodia Orchids Club	|
-|	A6	|	The Orchid Society of South East Asia	|
+|	A6	|	The Orchid Society of South East Asia	(Non-competitive)|
 |	A7	|	The Federation of Malaya Orchid Society (FOMOS)	|
 |	A8	|	Toh Garden	|
 |	A9	|	Fairchild Tropical Botanic Garden: The Million Orchid Project	|
@@ -29,8 +29,8 @@ Featuring over 20 displays by orchid societies, associations and professional gr
 
 | Plot number (9 sqm) |Name of Exhibitor | 
 | -------- | -------- | 
-|	B1	|	Orchid Displays by Community In Bloom Gardeners	|
-|	B2	|	Singapore Gardening Society	|
+|	B1	|	Orchid Displays by Community In Bloom Gardeners	(Non-competitive)|
+|	B2	|	Singapore Gardening Society	(Non-competitive)|
 |	B3	|	Okinawa Churashima Foundation	|
 |	B4	|	Adisak Hongsilp	|
 |	B5	|	Indonesia Orchid Society of East Java	|
