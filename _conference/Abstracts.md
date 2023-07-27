@@ -42,4 +42,6 @@ description: ""
 |Nooduan Muangsan |Diversity and *ex situ* conservation of terrestrial orchids in Khao Yai National Park, Thailand | [Download](/files/Abstracts/nooduan_muangsan.pdf)
 |Leong Yuan Wah| Growing miniature orchids in the tropics | [Download](/files/Abstracts/leong_yuan_wah.pdf)|
 |Winston Wee | Orchid show judging and its challenges | [Download](/files/Abstracts/winston_wee.pdf)|
-|Christopher Teo | Growing *Papilionanthe* and *Papilionanda* | [Download](/files/Abstracts/christopher_teo.pdf)
+|Christopher Teo | Growing *Papilionanthe* and *Papilionanda* | [Download](/files/Abstracts/christopher_teo.pdf)|
+|Ai-Qun Hu | Orchid conservation in the city: case studies from Hong Kong and Singapore | [Download](/files/Abstracts/hu_ai-qun.pdf)|
+|Teoh Eng Soon | Can orchids be eaten? | [Download](/files/Abstracts/teoh_eng_soon.pdf)
