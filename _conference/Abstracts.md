@@ -44,4 +44,5 @@ description: ""
 |Winston Wee | Orchid show judging and its challenges | [Download](/files/Abstracts/winston_wee.pdf)|
 |Christopher Teo | Growing *Papilionanthe* and *Papilionanda* | [Download](/files/Abstracts/christopher_teo.pdf)|
 |Ai-Qun Hu | Orchid conservation in the city: case studies from Hong Kong and Singapore | [Download](/files/Abstracts/hu_ai-qun.pdf)|
-|Teoh Eng Soon | Can orchids be eaten? | [Download](/files/Abstracts/teoh_eng_soon.pdf)
+|Teoh Eng Soon | Can orchids be eaten? | [Download](/files/Abstracts/teoh_eng_soon.pdf)|
+|Hsi Lin|Relationship between carbohydrate changes in pseudobulbs and flowering in *Onicdesa* Gower Ramsey ‘Honey Angel’| [Download](/files/Abstracts/hsi_lin.pdf)
