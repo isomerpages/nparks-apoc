@@ -33,6 +33,6 @@ sections:
       url: /welcome-message
   - infopic:
       title: We thank our sponsors
-      image: /images/sponsor.JPG
+      image: /images/sponsors&partners.jpg
       alt: Image alt text
 ---
