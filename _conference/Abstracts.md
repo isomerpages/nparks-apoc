@@ -46,4 +46,4 @@ description: ""
 |Ai-Qun Hu | Orchid conservation in the city: case studies from Hong Kong and Singapore | [Download](/files/Abstracts/hu_ai-qun.pdf)|
 |Teoh Eng Soon | Can orchids be eaten? | [Download](/files/Abstracts/teoh_eng_soon.pdf)|
 |Hsi Lin|Relationship between carbohydrate changes in pseudobulbs and flowering in *Onicdesa* Gower Ramsey ‘Honey Angel’| [Download](/files/Abstracts/hsi_lin.pdf)
- |Tran Duy Duong | Current status of research, production, limitations and solutions to develop the orchid industry in Vietnam | [Download](/files/Abstracts/tran_duy_duong.pdf)
+ |Tran Duy Duong | Current status of research, production, limitations and solutions to develop the orchid industry in Vietnam | [Download](/files/Abstracts/tran_duy_duong_1.pdf)
