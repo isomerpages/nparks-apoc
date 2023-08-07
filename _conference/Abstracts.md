@@ -24,7 +24,7 @@ description: ""
 |Daniel Sarpong| Exploring orchid diversity, conservation, culture, and hybridisation: A comprehensive approach for sustainable development |[Download](/files/Abstracts/daniel_sarpong.pdf) |
 | Jose Portilla    | Ecuagenera: Conservation in action    | [Download](/files/Abstracts/jose_portilla.pdf) |
 |Champika Bandara | Unraveling the enigmatic charm: challenges in morphological characterisation of highly threatened *Oberonia* species of section *Scylla* in Sri Lanka| [Download](/files/Abstracts/champika_bandara.pdf)|
-|Martin R. Motes | Novelty *Vanda* hybrids using *Vanda* species | [Download](/files/Abstracts/martin_motes_session.pdf)|
+|Martin R. Motes | Novelty *Vanda* hybrids using *Vanda* species | [Download](/files/Abstracts/s%2019_martin_motes_final_session.pdf)|
 |Paul Chong Ren Huang | Cattleya cultivation under LED lights | [Download](/files/Abstracts/paul_chong.pdf) |
 |Rachel X. E. Tan | Foundation to future: The story of orchid hybridisation and naming in the Singapore Botanic Gardens | [Download](/files/Abstracts/rachel_tan.pdf)|
 |Thereis Y. S. Choo | Development and management of the National Orchid Garden: Building on its history and reputation, and reflecting the broader work of the Singapore Botanic Gardens | [Download](/files/Abstracts/thereis_choo.pdf)|
@@ -42,8 +42,8 @@ description: ""
 |Nooduan Muangsan |Diversity and *ex situ* conservation of terrestrial orchids in Khao Yai National Park, Thailand | [Download](/files/Abstracts/nooduan_muangsan.pdf)
 |Leong Yuan Wah| Growing miniature orchids in the tropics | [Download](/files/Abstracts/leong_yuan_wah.pdf)|
 |Winston Wee | Orchid show judging and its challenges | [Download](/files/Abstracts/winston_wee.pdf)|
-|Christopher Teo | Growing *Papilionanthe* and *Papilionanda* | [Download](/files/Abstracts/christopher_teo.pdf)|
-|Ai-Qun Hu | Orchid conservation in the city: case studies from Hong Kong and Singapore | [Download](/files/Abstracts/hu_ai-qun.pdf)|
+|Christopher Teo | Growing *Papilionanthe* and *Papilionanda* | [Download](/files/Abstracts/s%202_christopher_teo_final_session.pdf)|
+|Ai-Qun Hu | Orchid conservation in the city: case studies from Hong Kong and Singapore | [Download](/files/Abstracts/s%208_hu_ai-qun_final_session.pdf)|
 |Teoh Eng Soon | Can orchids be eaten? | [Download](/files/Abstracts/teoh_eng_soon.pdf)|
-|Hsi Lin|Relationship between carbohydrate changes in pseudobulbs and flowering in *Onicdesa* Gower Ramsey ‘Honey Angel’| [Download](/files/Abstracts/hsi_lin.pdf)
- |Tran Duy Duong | Current status of research, production, limitations and solutions to develop the orchid industry in Vietnam | [Download](/files/Abstracts/tran_duy_duong_1.pdf)
+|Hsi Lin|Relationship between carbohydrate changes in pseudobulbs and flowering in *Oncidesa* Gower Ramsey ‘Honey Angel’  | [Download](/files/Abstracts/s%2026_hsi_lin_final%20_session.pdf)|
+ |Tran Duy Duong | Current status of research, production, limitations and solutions to develop the orchid industry in Vietnam | [Download](/files/Abstracts/s%2025_tran_duy_duong_final%20copy_session.pdf)|

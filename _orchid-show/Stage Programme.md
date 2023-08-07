@@ -33,7 +33,7 @@ description: ""
 | 10.30am     | **Plant Styling**<br><br>Talk by Mr Leo Tay<br> The 3 Keys | 
 | 11.30am     | **Complementary Plants For Orchid Growing**<br><br>Talk by Mr Darren Ng<br>Community in Bloom | 
 | 12.30pm     | **In Love With Orchids**<br><br> Floral Demonstration by Ms Linda Soo-Tan<br>Ikebana International Singapore Chapter 135 | 
-| 1.30pm     | **Scent Of Orchids Of SIngapore**<br><br>Talk by Ms Prachi Saini Garg<br>Scentopia | 
+| 1.30pm     | **Scent Of Orchids Of Singapore**<br><br>Talk by Ms Prachi Saini Garg<br>Scentopia | 
 | 2.30pm     | **Blossoms In Paradise**<br><br>Floral Demonstration by  Ms Evelyn Sam &amp; Mr Widiana Hartawan<br>Floral Designer Society (Singapore) | 
 | 3.30pm     | **Growing Monstera**<br><br>Talk by Mr Jeremy Yeo WL<br>National Parks Board | 
 | 4.30pm     | **Understanding Your Soil Mix For Home Gardening**<br><br>Talk by Mr Taufiq Jumal<br>National Parks Board | 
@@ -45,7 +45,7 @@ description: ""
 | 10.30am     | **Tropical Bonsai**<br><br>Talk by Mr Lim Keow Wah<br>Singapore Penjing &amp; Stone Appreciation Society  | 
 | 11.30am     | **Artisanal Home Delights: Bespoke, Captivating Displays That Mesmerise**<br><br>Floral Demonstration by <br>Mr Keith Lin | 
 | 12.30pm     | **Changing Style Of Ikebana**<br><br> Floral Demonstration by Mr Christopher Lim<br>Ikebana International Singapore Chapter 135 | 
-| 1.30pm     | **Scent Of Orchids Of SIngapore**<br><br>Talk by Ms Prachi Saini Garg<br>Scentopia | 
+| 1.30pm     | **Scent Of Orchids Of Singapore**<br><br>Talk by Ms Prachi Saini Garg<br>Scentopia | 
 | 2.30pm     | **Orchids In IKENOBO style**<br><br>Floral Demonstration by Ms Xu Yan<br>Floral Designer Society (Singapore) | 
 | 3.30pm     | **3D Jelly Art Floral Cake**<br><br>Demonstration by Ms Janet Su<br>The Vanilla Beans SG | 
 | 4.30pm     | **Growing Orchid At Highrise Balcony**<br><br>Talk by Ms Peggy Tan<br>Orchid Society of South East Asia | 
