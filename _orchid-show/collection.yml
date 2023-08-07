@@ -2,8 +2,8 @@ collections:
   orchid-show:
     output: true
     order:
-      - Stage Programme.md
       - Tickets.md
       - Orchid Competition.md
       - MarketPlace.md
       - General Displays.md
+      - Stage Programme.md
