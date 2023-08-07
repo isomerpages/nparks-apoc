@@ -3,7 +3,7 @@ title: Stage Programme
 permalink: /orchid-show/stageprogramme/
 description: ""
 ---
-# Day 1 - Wednesday, 16 Aug 2023
+### Day 1 - Wednesday, 16 Aug 2023
 
 
 | Time | Programme | 
@@ -15,7 +15,7 @@ description: ""
 | 5.30pm     | **Fun In Little Flower World**<br><br>Floral Demonstration by Ms Jenny Wong <br>Raffles International Floristry Academy (RIFA) | 
 | 6.30pm     | **How To Make Your Own Soil**<br><br>Talk by Mr Daniel Yap<br>Noi Gardens | 
 
-# Day 2 - Thursday, 17 Aug 2023
+### Day 2 - Thursday, 17 Aug 2023
 
 | Time | Programme | 
 | -------- | -------- | 
@@ -26,7 +26,7 @@ description: ""
 | 2.30pm     | **Growing Orchids in Small Spaces: Tried and Tested Tips!**<br><br>Talk by Mr Jeremy Yeo LY<br>National Parks Board | 
 | 3.30pm     | **Growing Of Indian Borage And Making Of Indian Borage Tea**<br><br>Talk by Mr Joshua Liang<br>Community in Bloom | 
 
-# Day 3 - Friday, 18 Aug 2023
+### Day 3 - Friday, 18 Aug 2023
 
 | Time | Programme | 
 | -------- | -------- | 
@@ -38,7 +38,7 @@ description: ""
 | 3.30pm     | **Growing Monstera**<br><br>Talk by Mr Jeremy Yeo WL<br>National Parks Board | 
 | 4.30pm     | **Understanding Your Soil Mix For Home Gardening**<br><br>Talk by Mr Taufiq Jumal<br>National Parks Board | 
 
-# Day 4 - Saturday, 19 Aug 2023
+### Day 4 - Saturday, 19 Aug 2023
 
 | Time | Programme | 
 | -------- | -------- | 
@@ -52,7 +52,7 @@ description: ""
 | 5.30pm     | **Understanding Your Soil Mix For Home Gardening**<br><br>Talk by Mr Taufiq Jumal<br>National Parks Board |
 | 6.30pm     | **How Not To Kill Your Plants At Home**<br><br>Talk by Mr Daniel Yap<br>Noi Gardens | 
 
-# Day 5 - Sunday, 20 Aug 2023
+### Day 5 - Sunday, 20 Aug 2023
 
 | Time | Programme | 
 | -------- | -------- | 
@@ -61,4 +61,4 @@ description: ""
 | 1.30pm     | **Simplicity / Happy Birthday Singapore**<br><br>Floral Demonstration by Ms Esther Law Choon Poh<br>Floral Designer Society Singapore | 
 | 2.30pm     | **Common Orchid Diseases, Prevention &amp; Cure**<br><br>Talk by Mr Ling KK<br>Orchid Society of South East Asia | 
 | 3.30pm     | **Micropropagation Laboratory In Singapore Botanic Gardens (SBG)**<br><br>Talk by Mr Koh Teng Seah<br>National Parks Board |
-4.30pm     | **Growing Orchids in Small Spaces: Tried and Tested Tips!**<br><br>Talk by Mr Jeremy Yeo LY<br>National Parks Board | 
+4.30pm     | **Growing Orchids in Small Spaces: Tried and Tested Tips!**<br><br>Talk by Mr Jeremy Yeo LY<br>National Parks Board |
