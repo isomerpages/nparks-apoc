@@ -9,8 +9,8 @@ description: ""
 <br> A: Held every three years, APOC is the largest gathering of orchid researchers, professional growers, and enthusiasts in the Asia-Pacific region. It supports the exchange and dissemination of knowledge, practices, and trends in orchid development, biotechnology, science, and conservation among the orchid community.
 
 **Q) What are some of the highlights for visitors of APOC?**
-* APOC offers a myriad of attractions and highlights for orchid enthusiasts and leisure visitors. Budding orchidologists can attend the Conference Programme which features talks and plenary sessions by orchid experts. 
-* For families, orchid growers and those with a budding interest in orchids, the Orchid Show encompasses various highlights such as the MarketPlace with over 50 local and international vendors showcasing their best blooms and plant-related items for sale, orchid competitions (Orchid Plant Competition and Orchid Landscape Display Competition) and an extensive range of orchid themed displays and exhibits.
+<br> A: APOC offers a myriad of attractions and highlights for orchid enthusiasts and leisure visitors. Budding orchidologists can attend the Conference Programme which features talks and plenary sessions by orchid experts. 
+<br><br>For families, orchid growers and those with a budding interest in orchids, the Orchid Show encompasses various highlights such as the MarketPlace with over 50 local and international vendors showcasing their best blooms and plant-related items for sale, orchid competitions (Orchid Plant Competition and Orchid Landscape Display Competition) and an extensive range of orchid themed displays and exhibits.
 
 **Q) Are there admission fees for the Show and Conference?**
 <br>A. Yes, tickets are required for entry to the Show and Conference. More information on the Show ticketing can be found [here](https://www.apoc14.gov.sg/orchid-show-and-competitions/tickets/). For the Conference registration, you can visit this [link](https://www.apoc14.gov.sg/conference/registration/).
