@@ -43,7 +43,7 @@ description: ""
 | 1.30pm - 2.30pm     | **Plenary session: The species and hybrids of *Dendrobium* section *Latouria* and allied genera** <br> Phil Spence| 
 | 2.30pm - 3.30pm     | **Session 6** <br><br>**2.30pm: Growing miniature orchids in the tropics** <br> Yuan Wah Leong <br> <br>**2.50pm: *Cattleya* cultivation under LED lights** <br> Paul Chong <br><br>**3.10pm:** **JOGA judging and recent trends in Japan** <br> Hiroto Goda| 
 | 3.30pm - 4.00pm     | Tea Break | 
-| 4.00pm - 5.20pm     | **Session 7** <br> <br>**4.00pm: Status of Vietnam's orchid industry** <br> Tran Duy Duong <br> <br>  **4.20pm:** **Development of *Oncidesa* Gower Ramey** <br>Hsi Lin    <br> <br>**4.40pm: Unveiling the therapeutic potential of orchids through molecular approaches** <br>Arshpreet Kaur  <br> <br>**5.00pm: Can orchids be eaten?** <br> Teoh Eng Soon| 
+| 4.00pm - 5.20pm     | **Session 7** <br> <br>**4.00pm: Current status of research, production, limitations and solutions to develop the orchid industry in Vietnam** <br> Tran Duy Duong <br> <br>  **4.20pm:** **Relationship between carbohydrate changes in pseudobulbs and flowering in *Oncidesa* Gower Ramsey ‘Honey Angel’** <br>Hsi Lin    <br> <br>**4.40pm: Unveiling the therapeutic potential of orchids through molecular approaches** <br>Arshpreet Kaur  <br> <br>**5.00pm: Can orchids be eaten?** <br> Teoh Eng Soon| 
 | 5.20pm - 6.00pm     | **Closing address** <br> K Gopalan |
 
 ### Day 4 - Saturday, 19 Aug 2023
