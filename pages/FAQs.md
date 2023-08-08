@@ -8,6 +8,10 @@ description: ""
 **Q) What is Asia Pacific Orchid Conference (APOC) about?** 
 <br> A: Held every three years, APOC is the largest gathering of orchid researchers, professional growers, and enthusiasts in the Asia-Pacific region. It supports the exchange and dissemination of knowledge, practices, and trends in orchid development, biotechnology, science, and conservation among the orchid community.
 
+**Q) What are some of the highlights for visitors of APOC?**
+* APOC offers a myriad of attractions and highlights for orchid enthusiasts and leisure visitors. Budding orchidologists can attend the Conference Programme which features talks and plenary sessions by orchid experts. 
+* For families, orchid growers and those with a budding interest in orchids, the Orchid Show encompasses various highlights such as the MarketPlace with over 50 local and international vendors showcasing their best blooms and plant-related items for sale, orchid competitions (Orchid Plant Competition and Orchid Landscape Display Competition) and an extensive range of orchid themed displays and exhibits.
+
 **Q) Are there admission fees for the Show and Conference?**
 <br>A. Yes, tickets are required for entry to the Show and Conference. More information on the Show ticketing can be found [here](https://www.apoc14.gov.sg/orchid-show-and-competitions/tickets/). For the Conference registration, you can visit this [link](https://www.apoc14.gov.sg/conference/registration/).
 
@@ -22,6 +26,9 @@ description: ""
 
 **Q) Are there dedicated prayer rooms at the Show and Conference venue?**
 <br> A. Gender-segregated prayer rooms are available at the venue for visitors. They are located on Level 2 at the end of Hall 6.
+
+**Q) Are there nursing rooms available at the Show and Conference venue?**
+<br> A. Yes, there is a nursing room with a dedicated changing area and nursing cubicles located next to Hall 6
 
 **Q) Which hotels are located close to the Conference venue?**
 <br> A. The closest hotels to the Singapore EXPO are Capri by Fraser Changi City and Park Avenue Changi Hotel, both of which are a 10-minute walk away.
