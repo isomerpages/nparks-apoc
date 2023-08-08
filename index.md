@@ -33,6 +33,6 @@ sections:
       alt: Image alt text
   - infopic:
       title: We thank our sponsors
-      image: /images/sponsors&partners.jpg
+      image: /images/sposnor_88.JPG
       alt: Image alt text
 ---
