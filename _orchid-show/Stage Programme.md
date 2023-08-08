@@ -12,7 +12,7 @@ description: ""
 | 2.30pm     | **Aquascaping: Urban Gardening with a Twist**<br><br>Talk by Mr Jeremy Yeo WL<br>National Parks Board | 
 | 3.30pm     | **3D Jelly Art Floral Cake**<br><br>Demonstration by Ms Janet Su<br>The Vanilla Beans SG | 
 | 4.30pm     | **Unassumingly Upscale and Modestly Alluring**<br><br>Floral Demonstration by <br> Ms Berlinda Tan &amp; Ms Felicia Kang | 
-| 5.30pm     | **Fun in Little Flower World**<br><br>Floral Demonstration by Ms Jenny Wong <br>Raffles International Floristry Academy (RIFA) | 
+| 5.30pm     | **Fun Floral with Preserved Flowers**<br><br>Floral Demonstration by Ms Lee Kuan Yi <br>Raffles International Floristry Academy (RIFA) | 
 | 6.30pm     | **How to Make your Own Soil**<br><br>Talk by Mr Daniel Yap<br>Noi Gardens | 
 
 ### Day 2 - Thursday, 17 Aug 2023
@@ -20,7 +20,7 @@ description: ""
 | Time | Programme | 
 | -------- | -------- | 
 | 10.30am     | **3D Jelly Art Floral Cake**<br><br>Demonstration by Ms Janet Su<br>The Vanilla Beans SG | 
-| 11.30am     | **Fun Floral with Preserved Flowers**<br><br>Floral Demonstration by Ms Lee Kuan Yi <br>Raffles International Floristry Academy (RIFA) | 
+| 11.30am     | **Fun in Little Flower World**<br><br>Floral Demonstration by Ms Jenny Wong <br>Raffles International Floristry Academy (RIFA) | 
 | 12.30pm     | **Plant Styling**<br><br>Talk by Mr Leo Tay<br> The 3 Keys | 
 | 1.30pm     | **Enchanting Orchid and Orchid Oasis**<br><br>Floral Demonstration by <br>Ms Felicia Kang &amp; Ms Berlinda Tan | 
 | 2.30pm     | **Growing Orchids in Small Spaces: Tried and Tested Tips!**<br><br>Talk by Mr Jeremy Yeo LY<br>National Parks Board | 
