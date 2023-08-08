@@ -47,3 +47,5 @@ description: ""
 |Teoh Eng Soon | Can orchids be eaten? | [Download](/files/Abstracts/teoh_eng_soon.pdf)|
 |Hsi Lin|Relationship between carbohydrate changes in pseudobulbs and flowering in *Oncidesa* Gower Ramsey ‘Honey Angel’  | [Download](/files/Abstracts/s%2026_hsi_lin_final%20_session.pdf)|
  |Tran Duy Duong | Current status of research, production, limitations and solutions to develop the orchid industry in Vietnam | [Download](/files/Abstracts/s%2025_tran_duy_duong_final%20copy_session.pdf)|
+ 
+ Updated abstracts will be made available in the E -Abstract book.
