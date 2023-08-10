@@ -17,10 +17,11 @@ Time: 8.00am - 4.00pm<br>Venue: Outside Peridot 202 - 205
 | 9.00am - 10.30am     | **Opening** **Ceremony**  <br>(Guests to arrive by 8.30am)   | 
 | 1.30pm - 1.40pm     | **Welcome Speech** <br>Gillian Khew   | 
 | 1.40pm - 2.30pm     | **Opening Keynote Address: Rediscovering and conserving orchids in a tropical city-state** <br> Kenneth Er| 
-| 2.30pm - 3.30pm     | **Plenary Lecture (Chaired by Shermela Appan)<br> The breeding of** ***Dendrobium*** **section** ***Spatulata*** **in East Java** <br> Novianto | 
+| 2.30pm - 3.30pm     | **Plenary Lecture (Chaired by: Shermela Appan)<br> The breeding of** ***Dendrobium*** **section** ***Spatulata*** **in East Java** <br> Novianto | 
 | 3.30pm - 4.00pm     | Tea Break | 
 | 4.00pm - 5.00pm     | **Oral Presentation 1 (Chaired by: Teoh Eng Soon)** <br><br> **4.00pm:** **Growing** ***Phalaenopsis*** **in an apartment** <br> Eric Seah <br><br> **4.20pm:** **Growing *Papilionanthe* and *Papilionanda*** <br> Christopher Teo <br><br>**4.40pm:  Orchid show judging and its challenges** <br> Winston Wee | 
-| 5.00pm - 6.00pm     | **Panel discussion (Chaired by Paul Chong Ren Huang)** <br> Eric Seah <br> Christopher Teo <br> Winston Wee |
+| 5.00pm - 6.00pm     | **Panel discussion (Chaired by: Paul Chong Ren Huang)** <br> Eric Seah <br> Christopher Teo <br> Winston Wee |
+| 6.00pm - 6.15pm     | Group Photo|
 | 6.30pm - 8.00pm     | **Welcome Dinner** <br>(Guests to arrive at 6.15pm)|
 
 
