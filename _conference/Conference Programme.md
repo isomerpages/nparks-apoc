@@ -14,7 +14,7 @@ Time: 8.00am - 4.00pm<br>Venue: Outside Peridot 202 - 205
 
 | Time  | Programme | 
 | -------- | -------- | 
-| 9.00am - 10.30am     | **Opening Ceremony** <br>(Guests arrival at 8.30am)   | 
+| 9.00am - 10.30am     | **Opening Ceremony at Hall 2, Singapore EXPO** <br>(Guests arrival at 8.30am)   | 
 | 1.30pm - 2.30pm     | **Opening keynote address: Orchid conservation in Singapore** <br> Kenneth Er| 
 | 2.30pm - 3.30pm     | **Plenary session: The breeding of** ***Dendrobium*** **section** ***Spatulata*** **in East Java** <br> Novianto | 
 | 3.30pm - 4.00pm     | Tea Break | 
