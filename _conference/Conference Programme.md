@@ -5,10 +5,10 @@ description: ""
 ---
 ### Registration for Conference<br>
 Date: Tuesday, 15 Aug 2023 <br>
-Time: 10.00am - 6.00pm<br>Venue: Outside Peridot 202 - 25
+Time: 10.00am - 6.00pm<br>Venue: Outside Peridot 202 - 205
 
 Date: Wednesday, 16 Aug 2023 <br>
-Time: 8.00am - 4.00pm<br>Venue: Outside Peridot 202 - 25
+Time: 8.00am - 4.00pm<br>Venue: Outside Peridot 202 - 205
 
 ### Day 1 - Wednesday, 16 Aug 2023
 
