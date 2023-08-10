@@ -46,19 +46,20 @@ Time: 8.00am - 4.00pm<br>Venue: Outside Peridot 202 - 205
 | -------- | -------- | 
 | 9.00am - 10.00am | **Plenary Lecture (Chaired by: Ai-Qun Hu)<br> Factors that impact *Phalaenopsis* flowering and inflorescence quality**  <br> Yao-Chien Alex Chang | 
 | 10.00am - 10.30am | Tea Break | 
-| 10.30am - 12.30pm     | **Session 5** <br><br> **10.30am:** **Unraveling the enigmatic charm: Challenges in morphological characterisation of highly threatened *Oberonia* species of section *Scylla* in Sri Lanka** <br> Champika Bandara <br> <br>**10.50am:** **Micropropagation of orchids at the Singapore Botanic Gardens and the use of organic additives in culture media**  <br> Teng Seah Koh <br><br> **11:10am:** **An introduction to Australian** ***Sarcochilus*** **“gems of the orchid world”** <br> Nette Meggetto <br><br>**11.30am: Novelty *Vanda* hybrids using *Vanda* species** <br> Martin Motes <br><br>  **11:50am: The breeding of harlequin-type *Phalaenopsis*: A cytogenetic perspective** <br> Yung-I Lee <br><br> **12.10pm:** **Recent** ***Paphiopedilum*** **breeding trends in Taiwan** <br> Chi-Ching Kao| 
+| 10.30am - 12.30pm     | **Oral Presentation 5 (Chaired by: Matti Niissalo and Ai-Qun Hu)** <br><br> **10.30am:** **Unraveling the enigmatic charm: Challenges in morphological characterisation of highly threatened *Oberonia* species of section *Scylla* in Sri Lanka** <br> Champika Bandara <br> <br>**10.50am:** **Micropropagation of orchids at the Singapore Botanic Gardens and the use of organic additives in culture media**  <br> Teng Seah Koh <br><br> **11:10am:** **An introduction to Australian** ***Sarcochilus*** **“gems of the orchid world”** <br> Nette I. Meggetto <br><br>**11.30am: Novelty *Vanda* hybrids using *Vanda* species** <br> Martin R. Motes <br><br>  **11:50am: The breeding of harlequin-type *Phalaenopsis*: A cytogenetic perspective** <br> Yung-I Lee <br><br> **12.10pm:** **Recent** ***Paphiopedilum*** **breeding trends in Taiwan** <br> Chi-Ching Kao| 
 | 12.30pm - 1.30pm     | Buffet Lunch | 
-| 1.30pm - 2.30pm     | **Plenary session: The species and hybrids of *Dendrobium* section *Latouria* and allied genera** <br> Phil Spence| 
-| 2.30pm - 3.30pm     | **Session 6** <br><br>**2.30pm: Growing miniature orchids in the tropics** <br> Yuan Wah Leong <br> <br>**2.50pm: *Cattleya* cultivation under LED lights** <br> Paul Chong <br><br>**3.10pm:** **JOGA judging and recent trends in Japan** <br> Hiroto Goda| 
+| 1.30pm - 2.30pm     | **Plenary Lecture (Chaired by: Michele Rodda)<br> The species and hybrids of *Dendrobium* section *Latouria* and allied genera** <br> Phil Spence| 
+| 2.30pm - 3.30pm     | **Oral Presentation 6 (Chaired by: K.Gopalan)** <br><br>**2.30pm: Growing miniature orchids in the tropics** <br> Yuan Wah Leong <br> <br>**2.50pm: *Cattleya* cultivation under LED lights** <br> Paul Chong Ren Huang<br><br>**3.10pm:** **JOGA judging and recent trends in Japan** <br> Hiroto Goda| 
 | 3.30pm - 4.00pm     | Tea Break | 
-| 4.00pm - 5.20pm     | **Session 7** <br> <br>**4.00pm: Current status of research, production, limitations and solutions to develop the orchid industry in Vietnam** <br> Tran Duy Duong <br> <br>  **4.20pm:** **Relationship between carbohydrate changes in pseudobulbs and flowering in *Oncidesa* Gower Ramsey ‘Honey Angel’** <br>Hsi Lin    <br> <br>**4.40pm: Unveiling the therapeutic potential of orchids through molecular approaches** <br>Arshpreet Kaur  <br> <br>**5.00pm: Can orchids be eaten?** <br> Teoh Eng Soon| 
+| 4.00pm - 5.20pm     | **Oral Presentaion 7 (Chaired by: SK Ganesan)** <br> <br>**4.00pm: Current status of research, production, limitations and solutions to develop the orchid industry in Vietnam** <br> Tran Duy Duong <br> <br>  **4.20pm:** **Relationship between carbohydrate changes in pseudobulbs and flowering in *Oncidesa* Gower Ramsey ‘Honey Angel’** <br>Hsi Lin    <br> <br>**4.40pm: Unveiling the therapeutic potential of orchids through molecular approaches** <br>Arshpreet Kaur  <br> <br>**5.00pm: Can orchids be eaten?** <br> Teoh Eng Soon| 
 | 5.20pm - 6.00pm     | **Closing address** <br> K Gopalan |
+| 5.40pm - 6.00pm     | **APOC Announcements** |
 
 ### Day 4 - Saturday, 19 Aug 2023
 
 
 | Time | Programme |
 | -------- | -------- | 
-| 9.00am - 12.30pm  | **Technical tours** <br> National Orchid Garden Tour <br> Singapore Botanic Gardens Heritage Tour   |
+| 9.00am - 12.30pm  | **Technical tours** <br> #1 National Orchid Garden Tour <br> #2 Singapore Botanic Gardens Heritage Tour and National Orchid Garden Tour   |
 
-*Correct as of 19 July 2023. The programme may be subject to change without prior notice.*
+*Correct as of 10 August 2023. The programme may be subject to change without prior notice.*
