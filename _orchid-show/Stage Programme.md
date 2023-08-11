@@ -44,7 +44,7 @@ description: ""
 | -------- | -------- | 
 | 10.30am     | **Tropical Bonsai**<br><br>Talk by Mr Lim Keow Wah<br>Singapore Penjing &amp; Stone Appreciation Society  | 
 | 11.30am     | **Artisanal Home Delights: Bespoke, Captivating Displays that Mesmerise**<br><br>Floral Demonstration by <br>Mr Keith Lin | 
-| 12.30pm     | **Changing Style of Ikebana**<br><br> Floral Demonstration by Mr Christopher Lim<br>Ikebana International Singapore Chapter 135 | 
+| 12.30pm     | **The Changing Style of Ikebana**<br><br> Floral Demonstration by Mr Christopher Lim<br>Ikebana International Singapore Chapter 135 | 
 | 1.30pm     | **Scent of Orchids**<br><br>Talk by Ms Prachi Saini Garg<br>Scentopia | 
 | 2.30pm     | **Orchids in Ikenobō style**<br><br>Floral Demonstration by Ms Xu Yan<br>Floral Designers Society (Singapore) | 
 | 3.30pm     | **3D Jelly Art Floral Cake**<br><br>Demonstration by Ms Janet Su<br>The Vanilla Beans SG | 
