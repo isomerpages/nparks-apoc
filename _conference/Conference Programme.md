@@ -37,7 +37,7 @@ Time: 8.00am - 4.00pm<br>Venue: Outside Peridot 202 - 205
 | 2.30pm - 3.30pm     | **Oral Presentation 3 (Chaired by: Junhao Chen)** <br> <br>**2.30pm: Diversity and *ex situ* conservation of terrestrial orchids in Khao Yai National Park, Thailand** <br> Nooduan Muangsan <br><br> **2.50pm: Orchid diversity and conservation in Thailand: A case study of *Dendrobium* orchids in the northern region** <br> Thitiporn Pingyot <br><br> **3.10pm: *Ex situ* orchid conservation at the Botanical Garden Organization (BGO)** <br> Anchalee Nuammee | 
 | 3.30pm - 4.00pm     | Tea Break | 
 | 4.00pm - 5.00pm     | **Oral Presentation 4 (Chaired by: Louise Neo)** <br><br> **4.00pm: Development and management of the National Orchid Garden: Building on its history and reputation, and reflecting the broader work of the Singapore Botanic Gardens** <br> Thereis Choo <br><br> **4.20pm: Foundation to future: The story of orchid hybridisation and naming in the Singapore Botanic Gardens** <br> Rachel Tan <br><br> **4.40pm: Fantastic orchids and where to find them in the National Orchid Garden** <br> Mark Choo | 
-| 5.00pm - 6.00pm     | **Plenary Lecture (Chaired by: Gillian Khew)<br> A modern view of the genus *Vanda*** <br> Martin R. Motes|
+| 5.00pm - 6.00pm     | **Plenary Lecture (Chaired by: Matti Nissalo)<br> A modern view of the genus *Vanda*** <br> Martin R. Motes|
 
 
 
