@@ -12,7 +12,7 @@ description: ""
 | 2.30pm     | **Aquascaping: Urban Gardening with a Twist**<br><br>Talk by Mr Jeremy Yeo WL<br>National Parks Board | 
 | 3.30pm     | **3D Jelly Art Floral Cake**<br><br>Demonstration by Ms Janet Su<br>The Vanilla Beans SG | 
 | 4.30pm     | **Unassumingly Upscale and Modestly Alluring**<br><br>Floral Demonstration by <br> Ms Berlinda Tan &amp; Ms Felicia Kang | 
-| 5.30pm     | **Fun with Preserved Flowers**<br><br>Floral Demonstration by Ms Lee Kuan Yi <br>Raffles International Floristry Academy (RIFA) | 
+| 5.30pm     | **Fun with Preserved Flowers**<br><br>Floral Demonstration by Mr Lee Kuan Yi <br>Raffles International Floristry Academy (RIFA) | 
 | 6.30pm     | **How to Make your Own Soil**<br><br>Talk by Mr Daniel Yap<br>Noi Gardens | 
 
 ### Day 2 - Thursday, 17 Aug 2023
