@@ -16,4 +16,4 @@ The APOC #orchidcam contest (“Contest”) is organised by the National Parks B
 8.	If the winner does not respond to the Email Notification within 14 working days, a new winner will be selected. <br>
 9.	The Organisers reserve the right to amend the Contest Period as well as other Contest terms and conditions at any time without prior notice.<br>
 10.	By participating in the Contest, participants agree to grant the Organisers an exclusive, worldwide, royalty-free, perpetual and irrevocable licence to copy, store, edit, distribute, transmit and publish the Contest entry. In addition, participants are deemed to have consented to the collection, use and disclosure of their personal information, where deemed practically necessary, for the execution of the Contest. <br>
-11.	All other personal details collected as part of the Contest will be used in accordance with the National Parks Board’s Privacy Policy.
+11.	All other personal details collected as part of the Contest will be used in accordance with the National Parks Board’s [Privacy Policy](https://www.nparks.gov.sg/privacy-statement).
