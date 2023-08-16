@@ -6,11 +6,11 @@ description: ""
 ##### 14th Asia Pacific Orchid Conference ("APOC”) - #orchidcam Contest
 
 The APOC #orchidcam contest (“Contest”) is organised by the National Parks Board and the Orchid Society of South East Asia (the “Organisers”). By participating in the Contest, the participants agree to be bound by the following terms and conditions. <br>
-1. The Contest will be hosted on the APOC 14 Facebook page on 16, 18 and 20 August 2023, from 1000 hours (SGT) to 2100 hours (SGT) (“Contest Period”). Contest entries will only be considered valid during the Contest Period. <br>
+1. The Contest will be hosted on APOC 14 Facebook page on 16 - 20 August 2023, from 1100 hours (SGT) to 1300 hours (SGT) and 1700 hours (SGT) to 1900 hours (SGT) . Contest submissions will only be considered valid during this time period. <br>
 2. The Contest is open to residents of Singapore at least 18 years old except persons affiliated to the organisations involved in running the Contest. The Organisers reserve the sole and absolute discretion to exclude or disqualify any participant and/or entry from the Contest. <br>
 3. Participants are allowed to submit only ONE entry per day. In the event of multiple entry submissions by a participant, the first entry of the day will be deemed valid.  <br>
-4.	ONE winner will be randomly selected from the valid entries received by the Organisers. <br>
-5.	The results of the Contest will be announced on the APOC 14 Facebook page on 25 August 2023. In the event of a dispute, the Organisers’ decision is final. <br>
+4.	Participants would need to submit their entry by dressing in their floral best and striking a pose for our #orchidcam before liking and commenting “It’s Me!” on their photo posted on the APOC 14 Facebook page during the contest period. Details and instructions are also available on the APOC 14 Facebook page. . <br>
+5.	All entries will be reviewed by our panel of judges, and ONE winner will be selected and the winner’s name will be announced on APOC 14 Facebook page on 25 August 2023. In the event of a dispute, the Organisers’ decision is final.<br>
 6.	Participants of the Contest will stand a chance to win a Nikon Z 30 with Z 16-50mm lens kit. The prize is non-transferrable unless stated otherwise and non-exchangeable for cash. The Organisers reserve the right to substitute the prize with another prize of equivalent value without prior notice. <br>
 7.	The winner of the Contest will be notified via email within 7 working days from the end of the Contest Period (the “Email Notification”). The prize is to be collected from W Communications, 77 Robinson Road, #23-02 Singapore 068896, within 14 working days from the end of the Contest Period. <br>
 8.	If the winner does not respond to the Email Notification within 14 working days, a new winner will be selected. <br>
