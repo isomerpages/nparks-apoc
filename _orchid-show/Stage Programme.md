@@ -30,8 +30,7 @@ description: ""
 
 | Time | Programme | 
 | -------- | -------- | 
-| 10.30am     | **Plant Styling**<br><br>Talk by Mr Leo Tay<br> The 3 Keys | 
-| 11.30am     | **Complementary Plants for Orchid Growing**<br><br>Talk by Mr Darren Ng<br>Community in Bloom | 
+| 10.30am     | **Plant Styling**<br><br>Talk by Mr Leo Tay<br> The 3 Keys |  
 | 12.30pm     | **In Love with Orchids**<br><br> Floral Demonstration by Ms Linda Soo-Tan<br>Ikebana International Singapore Chapter 135 | 
 | 1.30pm     | **Scent of Orchids**<br><br>Talk by Ms Prachi Saini Garg<br>Scentopia | 
 | 2.30pm     | **Blossoms in Paradise**<br><br>Floral Demonstration by  Ms Evelyn Sam &amp; Ms Widiana Hartawan<br>Floral Designers Society (Singapore) | 
