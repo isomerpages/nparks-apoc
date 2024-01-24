@@ -1,0 +1,10 @@
+collections:
+  conference:
+    output: true
+    order:
+      - Registration.md
+      - Call for Abstracts.md
+      - Conference Programme.md
+      - Plenary Speakers.md
+      - Technical Tours.md
+      - Abstracts.md

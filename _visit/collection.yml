@@ -1,0 +1,7 @@
+collections:
+  visit:
+    output: true
+    order:
+      - Getting Here.md
+      - Event Venue.md
+      - About Singapore.md
